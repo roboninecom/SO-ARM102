@@ -60,6 +60,15 @@ Totals: 6 × STS3215 7.4V, 2 × STS3215 12V, 2 × STS3235 12V, 2 × STS3250 12V.
 - **Leader, 5V.** The leader servos are only read, never loaded. You can use a passive ST-3215-C066 without motor and gearbox **only** for leader arm.
 - Servo horns and the M3 × 6 horn screws come with the servos.
 
+## Servo cables
+
+The STS3250 servos come with 22 cm long cables, while the STS3215 servos come with 17 cm long cables. Assembling follower + leader requires 4 long cables and 8 standard ones, meaning you'll need to purchase two additional cables that are 22 cm or longer. You will need them to join servos ID1 to ID2 and ID3 to ID4 ([assembly-guide.md](assembly-guide.md)).
+
+5264 3p Wire Double Head Reverse 300 mm [Aliexpress](https://www.aliexpress.us/item/3256809219214030.html) [Amazon](https://www.amazon.com/waveshare-5264-3PIN-Servo-Compatible-servos/dp/B0GVDPPF72/)
+
+![Cables length](../assets/images/assembly/cables-length.jpg)
+
+
 ## Electronics
 
 | Item | Qty | Notes | Buy US | Unit cost (US) | Buy US | Unit cost (US) | Buy EU | Unit cost (EU) | Total (USD) |
