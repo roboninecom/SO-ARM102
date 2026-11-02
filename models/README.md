@@ -16,24 +16,27 @@ The `stl/` and `step/` folders use the same split:
 - `follower/` — Parallel gripper and camera mount.
 - `leader/` — Handle, trigger and wrist roll.
 
-## 3MF slicer projects
+## [3MF slicer projects](3mf)
 
 | Project | Contents | Saved filament profile |
 |---|---|---|
-| [SO102_leader.3mf](3mf/SO102_leader.3mf) | One leader: arm parts, handle, trigger, wrist roll and board case | Bambu PETG-CF |
-| [SO102_follower_arms.3mf](3mf/SO102_follower_arms.3mf) | One follower's arm parts | Fiberon PET-CF17 |
-| [SO102_follower_gripper_base.3mf](3mf/SO102_follower_gripper_base.3mf) | Follower gripper and base; Shared parts, including controller cases | Bambu PETG-CF |
+| Follower table 1 | Follower arm links and base holder | Fiberon PET-CF17 |
+| Follower table 2 | Follower gripper and base parts | Bambu PETG-CF |
+| Leader table | Full leader arm | Bambu PLA+ |
+| Aruco cube | Aruco cube parts | Bambu PLA |
+| Colored figures | Figures of 3 colors and 4 types  | Bambu PLA |
 
 Open these files as projects in **Bambu Studio** to retain the saved settings.
 All three use the **Bambu Lab A1, 0.4 mm nozzle** profile and one **256 × 256 mm** plate each.
 Select your printer, nozzle and filament before slicing. For a smaller bed, split the parts
 across additional plates while preserving their orientations and support settings.
 
-For one leader + one follower, print all three projects once. The arm projects each include
-the common parts for one arm; there is no need to print a separate common set.
+For one leader + one follower print all three projects once.
 
-Saved settings and layout previews are in [docs/printing.md](../docs/printing.md#3mf-slicer-projects).
+Saved settings, layout previews, part numbers, quantities and print settings are in [docs/printing.md](../docs/printing.md).
 
-Part numbers, quantities and print settings are in [docs/printing.md](../docs/printing.md).
+## Test plate for Gripper Rods
 
-Print the [rod-fit test plate](stl/test/Gripper%20test%20plate%20star%20holes%206.0-6.3.STL) with the same material and settings as the clamps. Try the 6.0–6.3 mm holes from largest to smallest; choose a smooth fit with minimal play. This repository currently supplies D6.1 clamps only; a different test result requires a matching clamp revision before printing. This is a test tool, not a kit part.
+![Gripper rods test plate](../assets/images/3d%20print/rod-test-plate.png)
+
+To make your Follower Gripper move smooth you need to fit Clamps hole sizes with diameter of Rods. For this purpose at first you have to print the [test plate](../models/stl/test/Gripper%20rods%20test%20plate%20D6.0-D6.2.STL) with the same material and settings as the Clamps (PETG-CF). Then try to insert 6 mm rod into the 6.0–6.2 mm holes starting from largest to smallest ones; choose hole with a smooth fit with minimal play. This will be your choice for next step. After this test you should print one of 3 versions of **Follower table 2** 3mf files - with ending **D6.0**, **D6.1** or **D6.2** in file name.
