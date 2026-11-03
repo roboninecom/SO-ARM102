@@ -119,7 +119,7 @@ or **$373.97** including printing material, before shipping and taxes.
 
 ### 3. Assemble
 
-- Printable booklet, 32 pages A5: [docs/SO-ARM102_assembly_A5.pdf](docs/SO-ARM102_assembly_A5.pdf)
+- Printable booklet, 32 pages A5: [docs/SO-ARM102_assembly_A5_v0.7.pdf](docs/SO-ARM102_assembly_A5_v0.7.pdf)
 - Step list with parts and fasteners: [docs/assembly-guide.md](docs/assembly-guide.md)
 
 Tools: hex keys 1.5 mm (M2 screws) and 2 mm (M3 screws).
@@ -191,7 +191,7 @@ Geometry and inertia checks are recorded in [export_verification.json](simulatio
 │   ├── bom.md               # Bill of materials
 │   ├── assembly-guide.md    # Step list with parts and fasteners
 │   ├── specifications.md    # Geometry, servos, measured results vs SO-ARM 101
-│   └── SO-ARM102_assembly_A5.pdf
+│   └── SO-ARM102_assembly_A5_v0.7.pdf
 ├── assets/
 │   ├── images/              # Photos, renders, booklet pages, test photos
 │   └── video/               # Preview video and GIF

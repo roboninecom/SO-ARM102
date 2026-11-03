@@ -126,7 +126,7 @@ SO-ARM 100 और 101 पर आधारित यह किट अधिक �
 <a id="3-assemble"></a>
 ### 3. इकट्ठा करें
 
-- मुद्रण योग्य पुस्तिका, 32 पृष्ठ A5: [docs/SO-ARM102_assembly_A5.pdf](../../SO-ARM102_assembly_A5.pdf)
+- मुद्रण योग्य पुस्तिका, 32 पृष्ठ A5: [docs/SO-ARM102_assembly_A5_v0.7.pdf](../../SO-ARM102_assembly_A5_v0.7.pdf)
 - भागों और फास्टनर के साथ चरण सूची: [docs/assembly-guide.md](docs/assembly-guide.md)
 
 औज़ार: हेक्स कुंजियाँ 1.5 mm (M2 स्क्रू) और 2 mm (M3 स्क्रू).
@@ -191,7 +191,7 @@ SO-ARM 102 फॉलोअर प्लगइन का उपयोग मा�
 │   ├── bom.md               # सामग्री सूची
 │   ├── assembly-guide.md    # भागों और फास्टनर के साथ चरण सूची
 │   ├── specifications.md    # ज्यामिति, सर्वोमोटर, मापा परिणाम vs SO-ARM 101
-│   └── SO-ARM102_assembly_A5.pdf
+│   └── SO-ARM102_assembly_A5_v0.7.pdf
 ├── assets/
 │   ├── images/              # फोटो, रेंडर, पुस्तिका पृष्ठ, परीक्षण फोटो
 │   └── video/               # वीडियो तथा GIF का पूर्वावलोकन करें

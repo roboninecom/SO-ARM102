@@ -5,7 +5,7 @@
 <!-- /documentation-languages -->
 
 This guide follows the printed booklet
-[SO-ARM102_assembly_A5.pdf](SO-ARM102_assembly_A5.pdf) page by page.
+[SO-ARM102_assembly_A5_v0.7.pdf](SO-ARM102_assembly_A5_v0.7.pdf) page by page.
 Print the booklet on A5 landscape if you prefer paper.
 
 Before you start:

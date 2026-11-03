@@ -126,7 +126,7 @@ Recherchez les composants dans [résumé de la nomenclature](#bill-of-materials)
 <a id="3-assemble"></a>
 ### 3. Assembler
 
-- Livret imprimable, 32 pages A5: [docs/SO-ARM102_assembly_A5.pdf](../../SO-ARM102_assembly_A5.pdf)
+- Livret imprimable, 32 pages A5: [docs/SO-ARM102_assembly_A5_v0.7.pdf](../../SO-ARM102_assembly_A5_v0.7.pdf)
 - Liste des étapes avec pièces et fixations: [docs/assembly-guide.md](docs/assembly-guide.md)
 
 Outils: clés hexagonales 1.5 mm (M2 vis) et 2 mm (M3 vis).
@@ -191,7 +191,7 @@ L'exportation autonome actuelle est dans [`simulation/urdf/`](../../../simulatio
 │   ├── bom.md               # Nomenclature
 │   ├── assembly-guide.md    # Liste étape par étape avec pièces et fixations
 │   ├── specifications.md    # Géométrie, servomoteurs, résultats de mesure vs SO-ARM 101
-│   └── SO-ARM102_assembly_A5.pdf
+│   └── SO-ARM102_assembly_A5_v0.7.pdf
 ├── assets/
 │   ├── images/              # Photos, rendus, pages de livret, photos de test
 │   └── video/               # Aperçu vidéo et GIF

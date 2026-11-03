@@ -12,7 +12,7 @@
 <a id="assembly-guide"></a>
 # 装配指南
 
-本指南按照印刷的小册子[SO-ARM102_assembly_A5.pdf ](../../../SO-ARM102_assembly_A5.pdf)逐页进行说明。 如果您喜欢纸张,可以将小册子以横向 A5 格式打印出来。
+本指南按照印刷的小册子[SO-ARM102_assembly_A5_v0.7.pdf ](../../../SO-ARM102_assembly_A5_v0.7.pdf)逐页进行说明。 如果您喜欢纸张,可以将小册子以横向 A5 格式打印出来。
 
 开始之前：
 

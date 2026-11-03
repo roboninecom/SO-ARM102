@@ -12,7 +12,7 @@
 <a id="assembly-guide"></a>
 # Guide de montage
 
-Ce guide suit le livret imprimé [SO-ARM102_assembly_A5.pdf](../../../SO-ARM102_assembly_A5.pdf) page par page, imprimé sur A5 paysage si vous préférez du papier.
+Ce guide suit le livret imprimé [SO-ARM102_assembly_A5_v0.7.pdf](../../../SO-ARM102_assembly_A5_v0.7.pdf) page par page, imprimé sur A5 paysage si vous préférez du papier.
 
 Avant de commencer :
 

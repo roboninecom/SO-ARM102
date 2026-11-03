@@ -126,7 +126,7 @@ SO-ARM 100 と 101 を基に、より剛性の高い PET-CF フレームと平�
 <a id="3-assemble"></a>
 ### 3. 組み立てる
 
-- 印刷可能なブックレット、32ページA5：[docs/SO-ARM102_assembly_A5.pdf](../../SO-ARM102_assembly_A5.pdf)
+- 印刷可能なブックレット、32ページA5：[docs/SO-ARM102_assembly_A5_v0.7.pdf](../../SO-ARM102_assembly_A5_v0.7.pdf)
 - 各工程で使用する部品と締結部品の一覧：[docs/assembly-guide.md](docs/assembly-guide.md)
 
 工具：1.5 mm（M2 ねじ用）と 2 mm（M3 ねじ用）の六角レンチ。
@@ -191,7 +191,7 @@ SO-ARM 102 フォロワープラグインと標準の `so101_leader` 型を使�
 │   ├── bom.md               # 部品表
 │   ├── assembly-guide.md    # 各工程の部品と締結部品の一覧
 │   ├── specifications.md    # 寸法・形状、サーボ、SO-ARM 101 との実測比較
-│   └── SO-ARM102_assembly_A5.pdf
+│   └── SO-ARM102_assembly_A5_v0.7.pdf
 ├── assets/
 │   ├── images/              # 写真、レンダリング、ブックレットページ、テスト写真
 │   └── video/               # 動画とGIFのプレビュー

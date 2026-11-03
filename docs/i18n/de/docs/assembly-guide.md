@@ -12,7 +12,7 @@
 <a id="assembly-guide"></a>
 # Montageanleitung
 
-Diese Anleitung folgt der gedruckten Broschüre [SO-ARM102_assembly_A5.pdf](../../../SO-ARM102_assembly_A5.pdf) Seite für Seite und druckt die Broschüre auf A5 Querformat aus, wenn Sie Papier bevorzugen.
+Diese Anleitung folgt der gedruckten Broschüre [SO-ARM102_assembly_A5_v0.7.pdf](../../../SO-ARM102_assembly_A5_v0.7.pdf) Seite für Seite und druckt die Broschüre auf A5 Querformat aus, wenn Sie Papier bevorzugen.
 
 Vor dem Beginn:
 

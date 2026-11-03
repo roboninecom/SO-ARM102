@@ -128,7 +128,7 @@
 <a id="3-assemble"></a>
 ### 3. جمع
 
-- كتيب قابل للطباعة، 32 صفحة A5: [docs/SO-ARM102_assembly_A5.pdf](../../SO-ARM102_assembly_A5.pdf)
+- كتيب قابل للطباعة، 32 صفحة A5: [docs/SO-ARM102_assembly_A5_v0.7.pdf](../../SO-ARM102_assembly_A5_v0.7.pdf)
 - قائمة الخطوات مع الأجزاء ووسائل التثبيت: [docs/assembly-guide.md](docs/assembly-guide.md)
 
 الأدوات: المفاتيح السداسية 1.5 mm (M2 مسمار) و 2 mm (M3 مسمار).
@@ -193,7 +193,7 @@
 │   ├── bom.md               # قائمة المواد
 │   ├── assembly-guide.md    # قائمة الخطوات مع الأجزاء والملحقات
 │   ├── specifications.md    # الهندسة، محركات الخدمة، نتائج القياسات مقابل SO-ARM 101
-│   └── SO-ARM102_assembly_A5.pdf
+│   └── SO-ARM102_assembly_A5_v0.7.pdf
 ├── assets/
 │   ├── images/              # صور فوتوغرافية، ورسوم بيانية، وصفحات كتيب، وصور اختبار
 │   └── video/               # عرض مسبق للفيديو والصورة المتحركة

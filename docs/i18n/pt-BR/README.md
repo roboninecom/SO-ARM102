@@ -126,7 +126,7 @@ Obtenha os componentes do [resumo da lista de materiais](#bill-of-materials) e [
 <a id="3-assemble"></a>
 ### 3. Assemble
 
-- Livro imprimível, 32 páginas A5: [docs/SO-ARM102_assembly_A5.pdf](../../SO-ARM102_assembly_A5.pdf)
+- Livro imprimível, 32 páginas A5: [docs/SO-ARM102_assembly_A5_v0.7.pdf](../../SO-ARM102_assembly_A5_v0.7.pdf)
 - Lista de passos com peças e fixadores: [docs/assembly-guide.md](docs/assembly-guide.md)
 
 Ferramentas: chaves hexagonais 1.5 mm (M2 parafusos) e 2 mm (M3 parafusos).
@@ -191,7 +191,7 @@ A exportação autônoma atual está em [`simulation/urdf/`](../../../simulation
 │   ├── bom.md               # Lista de materiais
 │   ├── assembly-guide.md    # Lista de passos com peças e fixadores
 │   ├── specifications.md    # Geometria, servomotores, resultados medidos vs SO-ARM 101
-│   └── SO-ARM102_assembly_A5.pdf
+│   └── SO-ARM102_assembly_A5_v0.7.pdf
 ├── assets/
 │   ├── images/              # Fotos, renderizações, páginas de livreto, fotos de teste
 │   └── video/               # Visualização de vídeo e GIF

@@ -126,7 +126,7 @@ Beziehen Sie die Komponenten aus der [BOM-Zusammenfassung](#bill-of-materials) u
 <a id="3-assemble"></a>
 ### 3
 
-- Druckbares Heft, 32 Seiten A5: [docs/SO-ARM102_assembly_A5.pdf](../../SO-ARM102_assembly_A5.pdf)
+- Druckbares Heft, 32 Seiten A5: [docs/SO-ARM102_assembly_A5_v0.7.pdf](../../SO-ARM102_assembly_A5_v0.7.pdf)
 - Schrittliste mit Teilen und Befestigungen: [docs/assembly-guide.md](docs/assembly-guide.md)
 
 Werkzeuge: Sechskantschlüssel 1.5 mm (M2 Schrauben) und 2 mm (M3 Schrauben).
@@ -191,7 +191,7 @@ Der aktuelle Standalone-Export befindet sich in [`simulation/urdf/`](../../../si
 │   ├── bom.md               # Stückliste
 │   ├── assembly-guide.md    # Schrittliste mit Teilen und Befestigungselementen
 │   ├── specifications.md    # Geometrie, Servomotoren, Messergebnisse vs SO-ARM 101
-│   └── SO-ARM102_assembly_A5.pdf
+│   └── SO-ARM102_assembly_A5_v0.7.pdf
 ├── assets/
 │   ├── images/              # Fotos, Renderings, Booklet-Seiten, Testfotos
 │   └── video/               # Vorschau Video und GIF

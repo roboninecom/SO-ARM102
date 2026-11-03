@@ -19,52 +19,52 @@
       "translations": {
         "en": {
           "path": "docs/i18n/en/README.md",
-          "source_sha256": "60d87cfc2fb85d48f1ebb5fd16ea76c1d94d10cd0c856c8a6bc06a6ed81effba",
+          "source_sha256": "c3875fbaba300fb3cb42413bfe459d14771b1f92f850acd7d9910dcf6265571a",
           "review": "source-copy"
         },
         "ru": {
           "path": "docs/i18n/ru/README.md",
-          "source_sha256": "60d87cfc2fb85d48f1ebb5fd16ea76c1d94d10cd0c856c8a6bc06a6ed81effba",
+          "source_sha256": "c3875fbaba300fb3cb42413bfe459d14771b1f92f850acd7d9910dcf6265571a",
           "review": "structural-checks-only"
         },
         "es": {
           "path": "docs/i18n/es/README.md",
-          "source_sha256": "60d87cfc2fb85d48f1ebb5fd16ea76c1d94d10cd0c856c8a6bc06a6ed81effba",
+          "source_sha256": "c3875fbaba300fb3cb42413bfe459d14771b1f92f850acd7d9910dcf6265571a",
           "review": "structural-checks-only"
         },
         "fr": {
           "path": "docs/i18n/fr/README.md",
-          "source_sha256": "60d87cfc2fb85d48f1ebb5fd16ea76c1d94d10cd0c856c8a6bc06a6ed81effba",
+          "source_sha256": "c3875fbaba300fb3cb42413bfe459d14771b1f92f850acd7d9910dcf6265571a",
           "review": "structural-checks-only"
         },
         "de": {
           "path": "docs/i18n/de/README.md",
-          "source_sha256": "60d87cfc2fb85d48f1ebb5fd16ea76c1d94d10cd0c856c8a6bc06a6ed81effba",
+          "source_sha256": "c3875fbaba300fb3cb42413bfe459d14771b1f92f850acd7d9910dcf6265571a",
           "review": "structural-checks-only"
         },
         "pt-BR": {
           "path": "docs/i18n/pt-BR/README.md",
-          "source_sha256": "60d87cfc2fb85d48f1ebb5fd16ea76c1d94d10cd0c856c8a6bc06a6ed81effba",
+          "source_sha256": "c3875fbaba300fb3cb42413bfe459d14771b1f92f850acd7d9910dcf6265571a",
           "review": "structural-checks-only"
         },
         "zh-CN": {
           "path": "docs/i18n/zh-CN/README.md",
-          "source_sha256": "60d87cfc2fb85d48f1ebb5fd16ea76c1d94d10cd0c856c8a6bc06a6ed81effba",
+          "source_sha256": "c3875fbaba300fb3cb42413bfe459d14771b1f92f850acd7d9910dcf6265571a",
           "review": "structural-checks-only"
         },
         "ja": {
           "path": "docs/i18n/ja/README.md",
-          "source_sha256": "60d87cfc2fb85d48f1ebb5fd16ea76c1d94d10cd0c856c8a6bc06a6ed81effba",
+          "source_sha256": "c3875fbaba300fb3cb42413bfe459d14771b1f92f850acd7d9910dcf6265571a",
           "review": "structural-checks-only"
         },
         "hi": {
           "path": "docs/i18n/hi/README.md",
-          "source_sha256": "60d87cfc2fb85d48f1ebb5fd16ea76c1d94d10cd0c856c8a6bc06a6ed81effba",
+          "source_sha256": "c3875fbaba300fb3cb42413bfe459d14771b1f92f850acd7d9910dcf6265571a",
           "review": "structural-checks-only"
         },
         "ar": {
           "path": "docs/i18n/ar/README.md",
-          "source_sha256": "60d87cfc2fb85d48f1ebb5fd16ea76c1d94d10cd0c856c8a6bc06a6ed81effba",
+          "source_sha256": "c3875fbaba300fb3cb42413bfe459d14771b1f92f850acd7d9910dcf6265571a",
           "review": "structural-checks-only"
         }
       }
@@ -184,52 +184,52 @@
       "translations": {
         "en": {
           "path": "docs/i18n/en/docs/assembly-guide.md",
-          "source_sha256": "7108f556132ddbad87923bb32697d3dc326874281f55e9fdeaed91c182cb649a",
+          "source_sha256": "60e0641097209c4981152e545ba6e1f4f9e144d8f7897726ce7ca4f1631378da",
           "review": "source-copy"
         },
         "ru": {
           "path": "docs/i18n/ru/docs/assembly-guide.md",
-          "source_sha256": "7108f556132ddbad87923bb32697d3dc326874281f55e9fdeaed91c182cb649a",
+          "source_sha256": "60e0641097209c4981152e545ba6e1f4f9e144d8f7897726ce7ca4f1631378da",
           "review": "structural-checks-only"
         },
         "es": {
           "path": "docs/i18n/es/docs/assembly-guide.md",
-          "source_sha256": "7108f556132ddbad87923bb32697d3dc326874281f55e9fdeaed91c182cb649a",
+          "source_sha256": "60e0641097209c4981152e545ba6e1f4f9e144d8f7897726ce7ca4f1631378da",
           "review": "structural-checks-only"
         },
         "fr": {
           "path": "docs/i18n/fr/docs/assembly-guide.md",
-          "source_sha256": "7108f556132ddbad87923bb32697d3dc326874281f55e9fdeaed91c182cb649a",
+          "source_sha256": "60e0641097209c4981152e545ba6e1f4f9e144d8f7897726ce7ca4f1631378da",
           "review": "structural-checks-only"
         },
         "de": {
           "path": "docs/i18n/de/docs/assembly-guide.md",
-          "source_sha256": "7108f556132ddbad87923bb32697d3dc326874281f55e9fdeaed91c182cb649a",
+          "source_sha256": "60e0641097209c4981152e545ba6e1f4f9e144d8f7897726ce7ca4f1631378da",
           "review": "structural-checks-only"
         },
         "pt-BR": {
           "path": "docs/i18n/pt-BR/docs/assembly-guide.md",
-          "source_sha256": "7108f556132ddbad87923bb32697d3dc326874281f55e9fdeaed91c182cb649a",
+          "source_sha256": "60e0641097209c4981152e545ba6e1f4f9e144d8f7897726ce7ca4f1631378da",
           "review": "structural-checks-only"
         },
         "zh-CN": {
           "path": "docs/i18n/zh-CN/docs/assembly-guide.md",
-          "source_sha256": "7108f556132ddbad87923bb32697d3dc326874281f55e9fdeaed91c182cb649a",
+          "source_sha256": "60e0641097209c4981152e545ba6e1f4f9e144d8f7897726ce7ca4f1631378da",
           "review": "structural-checks-only"
         },
         "ja": {
           "path": "docs/i18n/ja/docs/assembly-guide.md",
-          "source_sha256": "7108f556132ddbad87923bb32697d3dc326874281f55e9fdeaed91c182cb649a",
+          "source_sha256": "60e0641097209c4981152e545ba6e1f4f9e144d8f7897726ce7ca4f1631378da",
           "review": "structural-checks-only"
         },
         "hi": {
           "path": "docs/i18n/hi/docs/assembly-guide.md",
-          "source_sha256": "7108f556132ddbad87923bb32697d3dc326874281f55e9fdeaed91c182cb649a",
+          "source_sha256": "60e0641097209c4981152e545ba6e1f4f9e144d8f7897726ce7ca4f1631378da",
           "review": "structural-checks-only"
         },
         "ar": {
           "path": "docs/i18n/ar/docs/assembly-guide.md",
-          "source_sha256": "7108f556132ddbad87923bb32697d3dc326874281f55e9fdeaed91c182cb649a",
+          "source_sha256": "60e0641097209c4981152e545ba6e1f4f9e144d8f7897726ce7ca4f1631378da",
           "review": "structural-checks-only"
         }
       }

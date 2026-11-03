@@ -126,7 +126,7 @@
 <a id="3-assemble"></a>
 ### 3. Соберите комплект
 
-- Буклет для печати, 32 страницы A5: [docs/SO-ARM102_assembly_A5.pdf](../../SO-ARM102_assembly_A5.pdf)
+- Буклет для печати, 32 страницы A5: [docs/SO-ARM102_assembly_A5_v0.7.pdf](../../SO-ARM102_assembly_A5_v0.7.pdf)
 - Этапы сборки с деталями и крепежом: [docs/assembly-guide.md](docs/assembly-guide.md)
 
 Инструменты: шестигранники 1.5 mm для винтов M2 и 2 mm для винтов M3.
@@ -191,7 +191,7 @@
 │   ├── bom.md               # Спецификация комплектующих
 │   ├── assembly-guide.md    # Этапы сборки с деталями и крепежом
 │   ├── specifications.md    # Геометрия, сервоприводы, измерения в сравнении с SO-ARM 101
-│   └── SO-ARM102_assembly_A5.pdf
+│   └── SO-ARM102_assembly_A5_v0.7.pdf
 ├── assets/
 │   ├── images/              # Фото, рендеры, страницы буклета, фото испытаний
 │   └── video/               # Видео и GIF

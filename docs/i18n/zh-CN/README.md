@@ -126,7 +126,7 @@
 <a id="3-assemble"></a>
 ### 3. 组装
 
-- 可打印的小册子，32页 A5：[docs/SO-ARM102_assembly_A5.pdf](../../SO-ARM102_assembly_A5.pdf)
+- 可打印的小册子，32页 A5：[docs/SO-ARM102_assembly_A5_v0.7.pdf](../../SO-ARM102_assembly_A5_v0.7.pdf)
 - 带有零件和紧固件的步骤列表: [docs/assembly-guide.md ](docs/assembly-guide.md)
 
 工具:六角钥匙 1.5 mm (M2螺丝) 和 2 mm (M3螺丝) 。
@@ -191,7 +191,7 @@
 │   ├── bom.md               # 物料清单
 │   ├── assembly-guide.md    # 带有零件和紧固件的步骤列表
 │   ├── specifications.md    # 几何形状、伺服电机、测量结果 vs SO-ARM 101
-│   └── SO-ARM102_assembly_A5.pdf
+│   └── SO-ARM102_assembly_A5_v0.7.pdf
 ├── assets/
 │   ├── images/              # 照片,渲染,小册子页面,测试照片
 │   └── video/               # 预览视频和GIF

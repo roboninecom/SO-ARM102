@@ -126,7 +126,7 @@ Obtenga los componentes del [resumen de la lista de materiales](#bill-of-materia
 <a id="3-assemble"></a>
 ### 3. Ensamblar
 
-- Folleto imprimible, 32 páginas A5: [docs/SO-ARM102_assembly_A5.pdf](../../SO-ARM102_assembly_A5.pdf)
+- Folleto imprimible, 32 páginas A5: [docs/SO-ARM102_assembly_A5_v0.7.pdf](../../SO-ARM102_assembly_A5_v0.7.pdf)
 - Lista de pasos con piezas y sujetadores: [docs/assembly-guide.md](docs/assembly-guide.md)
 
 Herramientas: llaves hexagonales 1.5 mm (M2 tornillos) y 2 mm (M3 tornillos).
@@ -191,7 +191,7 @@ La exportación independiente actual está en [`simulation/urdf/`](../../../simu
 │   ├── bom.md               # Lista de materiales
 │   ├── assembly-guide.md    # Lista de pasos con piezas y sujetadores
 │   ├── specifications.md    # Geometría, servomotores, resultados medidos vs SO-ARM 101
-│   └── SO-ARM102_assembly_A5.pdf
+│   └── SO-ARM102_assembly_A5_v0.7.pdf
 ├── assets/
 │   ├── images/              # Fotos, renders, páginas de folletos, fotos de prueba
 │   └── video/               # Vista previa de vídeo y GIF
