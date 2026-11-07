@@ -51,8 +51,8 @@ Die Reichweite wurde aus 100,000 zufälligen Posen innerhalb der Gelenkgrenzen o
 | 2 Schulterlifting | STS3250 | STS3215 |
 | 3 Ellbogenbeugung | STS3250 | STS3215 |
 | 4 Handgelenk Flex | STS3235 | STS3215 |
-| 5 Handgelenkrollen | STS3215 1:345 | STS3215 |
-| 6 Greifer / Auslöser | STS3215 | STS3215 |
+| 5 Handgelenkrollen | ST-3215-C049, 1:191 | STS3215 |
+| 6 Greifer / Auslöser | ST-3215-C049, 1:191 | STS3215 |
 | Versorgung | 12 V | 5 V |
 
 <a id="gripper"></a>

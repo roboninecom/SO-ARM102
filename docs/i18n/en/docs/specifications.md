@@ -51,8 +51,8 @@ Reach was computed from 100,000 random poses within the joint limits, with no se
 | 2 Shoulder lift | STS3250 | STS3215 |
 | 3 Elbow flex | STS3250 | STS3215 |
 | 4 Wrist flex | STS3235 | STS3215 |
-| 5 Wrist roll | STS3215 1:345 | STS3215 |
-| 6 Gripper / trigger | STS3215 | STS3215 |
+| 5 Wrist roll | ST-3215-C049, 1:191 | STS3215 |
+| 6 Gripper / trigger | ST-3215-C049, 1:191 | STS3215 |
 | Supply | 12 V | 5 V |
 
 <a id="gripper"></a>

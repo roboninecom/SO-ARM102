@@ -239,52 +239,52 @@
       "translations": {
         "en": {
           "path": "docs/i18n/en/docs/specifications.md",
-          "source_sha256": "78b9998904d348cecf7e8bcb201bfc264e9964a965008c5ec4605e17178bdaa8",
+          "source_sha256": "4cbef6e93cfc24568bb8677dedac336e401d0cc4a0c5bdddf5fb71f3c41c7261",
           "review": "source-copy"
         },
         "ru": {
           "path": "docs/i18n/ru/docs/specifications.md",
-          "source_sha256": "78b9998904d348cecf7e8bcb201bfc264e9964a965008c5ec4605e17178bdaa8",
+          "source_sha256": "4cbef6e93cfc24568bb8677dedac336e401d0cc4a0c5bdddf5fb71f3c41c7261",
           "review": "structural-checks-only"
         },
         "es": {
           "path": "docs/i18n/es/docs/specifications.md",
-          "source_sha256": "78b9998904d348cecf7e8bcb201bfc264e9964a965008c5ec4605e17178bdaa8",
+          "source_sha256": "4cbef6e93cfc24568bb8677dedac336e401d0cc4a0c5bdddf5fb71f3c41c7261",
           "review": "structural-checks-only"
         },
         "fr": {
           "path": "docs/i18n/fr/docs/specifications.md",
-          "source_sha256": "78b9998904d348cecf7e8bcb201bfc264e9964a965008c5ec4605e17178bdaa8",
+          "source_sha256": "4cbef6e93cfc24568bb8677dedac336e401d0cc4a0c5bdddf5fb71f3c41c7261",
           "review": "structural-checks-only"
         },
         "de": {
           "path": "docs/i18n/de/docs/specifications.md",
-          "source_sha256": "78b9998904d348cecf7e8bcb201bfc264e9964a965008c5ec4605e17178bdaa8",
+          "source_sha256": "4cbef6e93cfc24568bb8677dedac336e401d0cc4a0c5bdddf5fb71f3c41c7261",
           "review": "structural-checks-only"
         },
         "pt-BR": {
           "path": "docs/i18n/pt-BR/docs/specifications.md",
-          "source_sha256": "78b9998904d348cecf7e8bcb201bfc264e9964a965008c5ec4605e17178bdaa8",
+          "source_sha256": "4cbef6e93cfc24568bb8677dedac336e401d0cc4a0c5bdddf5fb71f3c41c7261",
           "review": "structural-checks-only"
         },
         "zh-CN": {
           "path": "docs/i18n/zh-CN/docs/specifications.md",
-          "source_sha256": "78b9998904d348cecf7e8bcb201bfc264e9964a965008c5ec4605e17178bdaa8",
+          "source_sha256": "4cbef6e93cfc24568bb8677dedac336e401d0cc4a0c5bdddf5fb71f3c41c7261",
           "review": "structural-checks-only"
         },
         "ja": {
           "path": "docs/i18n/ja/docs/specifications.md",
-          "source_sha256": "78b9998904d348cecf7e8bcb201bfc264e9964a965008c5ec4605e17178bdaa8",
+          "source_sha256": "4cbef6e93cfc24568bb8677dedac336e401d0cc4a0c5bdddf5fb71f3c41c7261",
           "review": "structural-checks-only"
         },
         "hi": {
           "path": "docs/i18n/hi/docs/specifications.md",
-          "source_sha256": "78b9998904d348cecf7e8bcb201bfc264e9964a965008c5ec4605e17178bdaa8",
+          "source_sha256": "4cbef6e93cfc24568bb8677dedac336e401d0cc4a0c5bdddf5fb71f3c41c7261",
           "review": "structural-checks-only"
         },
         "ar": {
           "path": "docs/i18n/ar/docs/specifications.md",
-          "source_sha256": "78b9998904d348cecf7e8bcb201bfc264e9964a965008c5ec4605e17178bdaa8",
+          "source_sha256": "4cbef6e93cfc24568bb8677dedac336e401d0cc4a0c5bdddf5fb71f3c41c7261",
           "review": "structural-checks-only"
         }
       }

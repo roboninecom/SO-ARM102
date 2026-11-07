@@ -51,8 +51,8 @@ El alcance se calculó a partir de 100,000 posturas aleatorias dentro de los lí
 | 2 Lifting de hombros | STS3250 | STS3215 |
 | 3 Flexión del codo | STS3250 | STS3215 |
 | 4 Flexión de la muñeca | STS3235 | STS3215 |
-| 5 Rollo de muñeca | STS3215 1:345 | STS3215 |
-| 6 Pinza / gatillo | STS3215 | STS3215 |
+| 5 Rollo de muñeca | ST-3215-C049, 1:191 | STS3215 |
+| 6 Pinza / gatillo | ST-3215-C049, 1:191 | STS3215 |
 | Alimentación | 12 V | 5 V |
 
 <a id="gripper"></a>

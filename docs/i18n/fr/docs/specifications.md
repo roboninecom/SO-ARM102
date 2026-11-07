@@ -51,8 +51,8 @@ La portée a été calculée à partir de 100,000 poses aléatoires dans les lim
 | 2 Lifting des épaules | STS3250 | STS3215 |
 | 3 Flexion du coude | STS3250 | STS3215 |
 | 4 Flexion du poignet | STS3235 | STS3215 |
-| 5 Rouleau de poignet | STS3215 1:345 | STS3215 |
-| 6 Préhenseur / déclencheur | STS3215 | STS3215 |
+| 5 Rouleau de poignet | ST-3215-C049, 1:191 | STS3215 |
+| 6 Préhenseur / déclencheur | ST-3215-C049, 1:191 | STS3215 |
 | Alimentation | 12 V | 5 V |
 
 <a id="gripper"></a>

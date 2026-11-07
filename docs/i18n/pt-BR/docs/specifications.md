@@ -51,8 +51,8 @@ O alcance foi calculado a partir de 100,000 poses aleatórias dentro dos limites
 | 2 Elevação de ombro | STS3250 | STS3215 |
 | 3 Flexão do cotovelo | STS3250 | STS3215 |
 | 4 Flexão do pulso | STS3235 | STS3215 |
-| 5 Rolo de pulso | STS3215 1:345 | STS3215 |
-| 6 Pinça / gatilho | STS3215 | STS3215 |
+| 5 Rolo de pulso | ST-3215-C049, 1:191 | STS3215 |
+| 6 Pinça / gatilho | ST-3215-C049, 1:191 | STS3215 |
 | Alimentação | 12 V | 5 V |
 
 <a id="gripper"></a>
