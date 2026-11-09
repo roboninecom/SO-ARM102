@@ -39,18 +39,18 @@ Com base no SO-ARM 100 e 101, combina uma estrutura de PET-CF mais rígida com u
 <a id="-what-changed-against-so-arm-101"></a>
 ## ✨ O que mudou em relação a SO-ARM 101
 
-|  | SO-ARM 101 | SO-ARM 102 |
+| | SO-ARM 101 | SO-ARM 102 |
 |---|---|---|
-| Garra | Mandíbula angular | Garrafa paralela, 85 mm span |
-| Material da estrutura | PLA | PET-CF (Fiberon PET-CF17 testado) |
-| Estrutura | Elos maciços | Elos otimizados por topologia |
-| Faixa de rotação da base | 220° | **352°** |
-| Alcance horizontal | 441 mm | **483 mm** |
-| Deflexão na garra, 300 g carga ¹ | 7.5 mm | **3.4–3.9 mm** |
-| Velocidade de ombro e cotovelo | 45 RPM (STS3215) | **75 RPM (STS3250)** |
-| Ruído a 1 m | 70 dB | **60 dB** |
+| **Garra paralela** | Mandíbula angular | **Duas mandíbulas paralelas, abertura de 85 mm** |
+| **Estrutura mais rígida: deflexão com 300 g ¹** | 7.5 mm | **3.4–3.9 mm (−48–55%)** |
+| **Ombro e cotovelo mais rápidos, sem carga** | 45 RPM (STS3215) | **75 RPM (STS3250), +67%** |
+| **Maior carga útil nominal** | 150 g | **300 g (+100%)** |
+| **Maior rotação da base** | 220° | **352° (+60%)** |
+| **Alcance: horizontal / atrás da base** | 441 / 377 mm | **483 / 473 mm (+9.5% / +25.5%)** |
+| **Menor folga na junta da base** | 8.75 contagens | **5.00 contagens (−43%)** |
+| **Menos ruído a 1 m** | 70 dB | **60 dB (−10 dB)** |
 
-¹ Ambos os braços do robô foram construídos com manequins de servomotores impressos, portanto a estrutura é comparada, não os motores.Os resultados completos e as condições de teste estão em [docs/specifications.md](docs/specifications.md).
+¹ Teste da estrutura totalmente estendida com réplicas impressas dos servos nas juntas 2, 3 e 4: SO-ARM 101 em PLA, SO-ARM 102 em Fiberon PET-CF17 com 25% de preenchimento. As velocidades são valores do fabricante sem carga a 12 V; as cargas úteis são nominais. Resultados e condições: [docs/specifications.md](docs/specifications.md).
 
 ---
 

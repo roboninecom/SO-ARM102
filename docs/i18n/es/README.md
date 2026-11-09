@@ -39,18 +39,18 @@ Basado en SO-ARM 100 y 101, combina una estructura de PET-CF más rígida con un
 <a id="-what-changed-against-so-arm-101"></a>
 ## ✨ Lo que cambió contra SO-ARM 101
 
-|  | SO-ARM 101 | SO-ARM 102 |
+| | SO-ARM 101 | SO-ARM 102 |
 |---|---|---|
-| Pinza | Mordaza angular | Pinza paralela, 85 mm span |
-| Material de la estructura | PLA | PET-CF (Fiberon PET-CF17 probado) |
-| Estructura | Eslabones macizos | Eslabones optimizados topológicamente |
-| Rango de giro de la base | 220° | **352°** |
-| Alcance horizontal | 441 mm | **483 mm** |
-| Desviación en la pinza, carga 300 g ¹ | 7.5 mm | **3.4–3.9 mm** |
-| Velocidad de hombro y codo | 45 RPM (STS3215) | **75 RPM (STS3250)** |
-| Ruido a 1 m | 70 dB | **60 dB** |
+| **Pinza paralela** | Mordaza angular | **Dos mordazas paralelas, apertura de 85 mm** |
+| **Bastidor más rígido: deflexión con 300 g ¹** | 7.5 mm | **3.4–3.9 mm (−48–55%)** |
+| **Hombro y codo más rápidos, sin carga** | 45 RPM (STS3215) | **75 RPM (STS3250), +67%** |
+| **Mayor carga útil nominal** | 150 g | **300 g (+100%)** |
+| **Mayor giro de la base** | 220° | **352° (+60%)** |
+| **Alcance: horizontal / detrás de la base** | 441 / 377 mm | **483 / 473 mm (+9.5% / +25.5%)** |
+| **Menor holgura en la articulación de la base** | 8.75 cuentas | **5.00 cuentas (−43%)** |
+| **Menos ruido a 1 m** | 70 dB | **60 dB (−10 dB)** |
 
-¹ Ambos brazos robóticos se construyeron con maniquíes de servomotores impresos, por lo que se compara el bastidor, no los motores.Los resultados completos y las condiciones de prueba están en [docs/specifications.md](docs/specifications.md).
+¹ Ensayo del bastidor completamente extendido con réplicas impresas de servos en las articulaciones 2, 3 y 4: SO-ARM 101 en PLA, SO-ARM 102 en Fiberon PET-CF17 con 25% de relleno. Las velocidades son valores del fabricante sin carga a 12 V; las cargas útiles son nominales. Resultados y condiciones: [docs/specifications.md](docs/specifications.md).
 
 ---
 
