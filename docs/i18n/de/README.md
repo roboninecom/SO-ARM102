@@ -39,18 +39,18 @@ Aufbauend auf SO-ARM 100 und 101 verbindet es einen steiferen PET-CF-Rahmen mit 
 <a id="-what-changed-against-so-arm-101"></a>
 ## ✨ Was hat sich gegenüber SO-ARM 101 geändert?
 
-|  | SO-ARM 101 | SO-ARM 102 |
+| | SO-ARM 101 | SO-ARM 102 |
 |---|---|---|
-| Greifer | Winkelbacke | Parallelgreifer, 85 mm Spannweite |
-| Rahmenmaterial | PLA | PET-CF (Fiberon PET-CF17 getestet) |
-| Struktur | Massive Glieder | Topologieoptimierte Glieder |
-| Drehbereich der Basis | 220° | **352°** |
-| Horizontale Reichweite | 441 mm | **483 mm** |
-| Umlenkung am Greifer, 300 g Last ¹ | 7.5 mm | **3.4–3.9 mm** |
-| Schulter- und Ellenbogengeschwindigkeit | 45 RPM (STS3215) | **75 RPM (STS3250)** |
-| Geräuschpegel bei 1 m | 70 dB | **60 dB** |
+| **Parallelgreifer** | Winkelgreifer | **Zwei parallele Backen, 85 mm Öffnung** |
+| **Steiferer Rahmen: Durchbiegung bei 300 g ¹** | 7.5 mm | **3.4–3.9 mm (−48–55%)** |
+| **Schnellere Schulter und schnellerer Ellbogen, ohne Last** | 45 RPM (STS3215) | **75 RPM (STS3250), +67%** |
+| **Höhere Nenntraglast** | 150 g | **300 g (+100%)** |
+| **Größerer Drehbereich der Basis** | 220° | **352° (+60%)** |
+| **Reichweite: horizontal / hinter der Basis** | 441 / 377 mm | **483 / 473 mm (+9.5% / +25.5%)** |
+| **Weniger Spiel im Basisgelenk** | 8.75 Zählschritte | **5.00 Zählschritte (−43%)** |
+| **Leiser in 1 m Abstand** | 70 dB | **60 dB (−10 dB)** |
 
-¹ Beide Roboterarme wurden mit gedruckten Servomotor-Dummys gebaut, daher wird der Rahmen verglichen, nicht die Motoren.Vollständige Ergebnisse und Testbedingungen finden Sie in [docs/specifications.md](docs/specifications.md).
+¹ Rahmentest bei voller Ausladung mit gedruckten Servoattrappen in den Gelenken 2, 3 und 4: SO-ARM 101 aus PLA, SO-ARM 102 aus Fiberon PET-CF17 mit 25% Füllung. Die Servodrehzahlen sind Herstellerangaben ohne Last bei 12 V; die Traglasten sind Nennwerte. Ergebnisse und Testbedingungen: [docs/specifications.md](docs/specifications.md).
 
 ---
 

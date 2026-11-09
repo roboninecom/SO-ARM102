@@ -39,18 +39,18 @@ Dans la continuité des SO-ARM 100 et 101, il associe une structure en PET-CF pl
 <a id="-what-changed-against-so-arm-101"></a>
 ## ✨ Ce qui a changé par rapport à SO-ARM 101
 
-|  | SO-ARM 101 | SO-ARM 102 |
+| | SO-ARM 101 | SO-ARM 102 |
 |---|---|---|
-| Pince | Mâchoire angulaire | Pince parallèle, 85 mm portée |
-| Matériau du châssis | PLA | PET-CF (Fiberon PET-CF17 testé) |
-| Structure | Segments pleins | Segments optimisés topologiquement |
-| Plage de rotation de la base | 220° | **352°** |
-| Portée horizontale | 441 mm | **483 mm** |
-| Déviation au niveau de la pince, charge 300 g ¹ | 7.5 mm | **3.4–3.9 mm** |
-| Vitesse de l'épaule et du coude | 45 RPM (STS3215) | **75 RPM (STS3250)** |
-| Bruit à 1 m | 70 dB | **60 dB** |
+| **Pince parallèle** | Mâchoire angulaire | **Deux mâchoires parallèles, ouverture de 85 mm** |
+| **Châssis plus rigide : flèche sous 300 g ¹** | 7.5 mm | **3.4–3.9 mm (−48–55%)** |
+| **Épaule et coude plus rapides, à vide** | 45 RPM (STS3215) | **75 RPM (STS3250), +67%** |
+| **Charge utile nominale supérieure** | 150 g | **300 g (+100%)** |
+| **Rotation de base plus ample** | 220° | **352° (+60%)** |
+| **Portée : horizontale / derrière la base** | 441 / 377 mm | **483 / 473 mm (+9.5% / +25.5%)** |
+| **Jeu réduit dans l’articulation de base** | 8.75 points | **5.00 points (−43%)** |
+| **Moins de bruit à 1 m** | 70 dB | **60 dB (−10 dB)** |
 
-¹ Les deux bras robotisés ont été construits avec des mannequins de servomoteurs imprimés. Le cadre est donc comparé, pas les moteurs. Les résultats complets et les conditions d'essai sont disponibles dans [docs/specifications.md](docs/specifications.md).
+¹ Essai du châssis en extension complète avec des répliques imprimées de servomoteurs aux articulations 2, 3 et 4 : SO-ARM 101 en PLA, SO-ARM 102 en Fiberon PET-CF17 avec 25% de remplissage. Les vitesses sont les valeurs constructeur à vide sous 12 V ; les charges utiles sont nominales. Résultats et conditions : [docs/specifications.md](docs/specifications.md).
 
 ---
 

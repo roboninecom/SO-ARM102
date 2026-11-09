@@ -45,17 +45,16 @@ Building on SO-ARM 100 and 101, it combines a stiffer PET-CF frame with a parall
 
 | | SO-ARM 101 | SO-ARM 102 |
 |---|---|---|
-| Gripper | Angular jaw | Parallel gripper, 85 mm span |
-| Frame material | PLA | PET-CF (Fiberon PET-CF17 tested) |
-| Structure | Solid links | Topology-optimised links |
-| Base rotation range | 220° | **352°** |
-| Horizontal reach | 441 mm | **483 mm** |
-| Deflection at the gripper, 300 g load ¹ | 7.5 mm | **3.4–3.9 mm** |
-| Shoulder and elbow speed | 45 RPM (STS3215) | **75 RPM (STS3250)** |
-| Noise at 1 m | 70 dB | **60 dB** |
+| **Parallel gripper** | Angular jaw | **Two parallel jaws, 85 mm span** |
+| **Stiffer frame: deflection at 300 g ¹** | 7.5 mm | **3.4–3.9 mm (−48–55%)** |
+| **Faster shoulder and elbow, no load** | 45 RPM (STS3215) | **75 RPM (STS3250), +67%** |
+| **Higher rated payload** | 150 g | **300 g (+100%)** |
+| **Wider base rotation** | 220° | **352° (+60%)** |
+| **Reach: horizontal / behind the base** | 441 / 377 mm | **483 / 473 mm (+9.5% / +25.5%)** |
+| **Lower base joint backlash** | 8.75 counts | **5.00 counts (−43%)** |
+| **Quieter at 1 m** | 70 dB | **60 dB (−10 dB)** |
 
-¹ Both arms built with printed servo dummies, so the frame is compared, not the motors.
-Full results and test conditions are in [docs/specifications.md](docs/specifications.md).
+¹ Frame test at full extension with printed servo dummies in joints 2, 3 and 4: SO-ARM 101 in PLA, SO-ARM 102 in Fiberon PET-CF17 at 25% infill. Servo speeds are manufacturer no-load ratings at 12 V; payloads are rated values. Full results and test conditions: [docs/specifications.md](docs/specifications.md).
 
 ---
 
