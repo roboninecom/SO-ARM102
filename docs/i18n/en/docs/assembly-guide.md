@@ -13,7 +13,7 @@
 # Assembly guide
 
 This guide follows the printed booklet
-[SO-ARM102_assembly_A5_v0.7.pdf](../../../SO-ARM102_assembly_A5_v0.7.pdf) page by page.
+[SO-ARM102_assembly_A5_v0.8.pdf](../../../SO-ARM102_assembly_A5_v0.8.pdf) page by page.
 Print the booklet on A5 landscape if you prefer paper.
 
 Before you start:
@@ -67,8 +67,10 @@ Set each servo ID before it goes into the arm. Tools for setting IDs and calibra
 <a id="0-servo-horns"></a>
 ## 0. Servo horns
 
-Mount one horn with an M3 × 6 screw on servo ID 1.
-Servos ID 2, 3 and 4 get a horn on both sides. Horn screws come with the servos.
+All leader servos are STS3215. On the follower, ID 1 and ID 4 are STS3235, and ID 2 and ID 3 are STS3250.
+
+Mount one horn with an M3 × 6 servo-kit screw on servo ID 1.
+Servos ID 2, 3 and 4 get a horn on both sides. Horn screws come with the servos. Screws marked “servo kit” on a step are from the servo pack, not the loose fastener bag.
 
 If you add O-rings to the leader, put them between the servo and the horn now. Getting this order wrong can jam the ring between the servo shell and the horn.
 
@@ -86,12 +88,12 @@ Repeat these steps for both arms. Printed part names match [printing.md](printin
 | 5 | SO102.02.030 Base washer | 4 × M3×10, 6 × M3×16 |
 | 6 | Servos ID 2 and ID 3, 2 × SO102.02.070 Bottom arm, 2 × Short Wire, 1 × Long Wire | 16 × M2×6 |
 | 7 | Servo ID 4, SO102.02.080-01 Upper arm right, 1 × Short Wire | 4 × M2×6 |
-| 8 | SO102.02.080 Upper arm left, 2 × SO102.02.130 Cable snap | 4 × M2×6, 8 × M3×10 |
-| 9 | Servo ID 5, SO102.02.090 Wrist holder, servo horn | 1 × M3×6, 4 × 2×6 self-tapping |
+| 8 | SO102.02.080 Upper arm left | 4 × M2×6, 8 × M3×10 |
+| 9 | Servo ID 5 (STS3215), SO102.02.090 Wrist holder, servo horn | 1 × M3×6 servo kit, 4 × 2×6 servo kit |
 | 10 | 1 × Short Wire | 8 × M3×10 |
 | 11 | — | 8 × M3×10 |
-| 12 | SO102.02.110 Board holder leader, Bus Servo Adapter | 4 × M2 nut, 4 × M2×8 |
-| 13 | SO102.02.110-01 Board cap leader, 1 × Long Wire | — |
+| 12 | SO102.02.101 Board holder, Bus Servo Adapter | 4 × M2 nut, 4 × M2×8 |
+| 13 | SO102.02.101-01 Board cap, 1 × Long Wire | — |
 
 | | | |
 |:-:|:-:|:-:|
@@ -108,12 +110,12 @@ Check that each servo cable reaches the next joint with some slack before you cl
 
 | Step | Parts | Fasteners |
 |:-:|---|---|
-| 1 | RB9.01.062.040 Gear for gripper on the servo horn, servo ID 6 | 4 × M3×4 set screw, 1 × M3×6 |
+| 1 | RB9.01.062.040 Gear for gripper on the servo horn, servo ID 6 | 4 × M3×4 set screw, 1 × M3×6 servo kit |
 | 2 | 2 × RB9.01.062.025 Clamp (D6.1), 2 × RB9.01.062.030 Gear rack, 2 × RB9.01.062.100 Nail | — |
 | 3 | 2 × rod Ø6 × 125 mm | — |
 | 4 | RB9.01.062.012 Main frame (D6.1), 2 × bearing MF106, 2 × RB9.01.062.050 Washer | 2 × M3×10 |
 | 5 | Click the rods into the main frame | — |
-| 6 | Push the clamps to their outer stops, insert the servo | 3 × 2×6 self-tapping |
+| 6 | Push the clamps to their outer stops, insert the servo | 3 × 2×6 servo kit |
 
 The ×2 on step 2 is one jaw assembly for each side. The quantities in the table are the total.
 Tighten the set screws from the horn side towards the gear, so no gap opens between them.
@@ -130,9 +132,9 @@ Slide both clamps along the rods by hand before closing up. They should move fre
 
 | Step | Parts | Fasteners |
 |:-:|---|---|
-| 1 | RB9.01.062.075 Camera holder | 4 × M3×10 |
-| 2 | Gripper assembly onto the wrist | 4 × 2×6 self-tapping |
-| 3 | RB9.01.062.090 Camera spacer, USB camera | 4 × M2×8, 4 × M2 nut |
+| 1 | RB9.01.062.075 Camera holder | 5 × M3×10 |
+| 2 | Gripper assembly onto the wrist | 4 × 2×6 servo kit |
+| 3 | RB9.01.062.090 Camera spacer, USB camera, SO102.02.130 Cable snap | 4 × M2×8, 4 × M2 nut |
 
 | | | |
 |:-:|:-:|:-:|
@@ -143,8 +145,8 @@ Slide both clamps along the rods by hand before closing up. They should move fre
 
 | Step | Parts | Fasteners |
 |:-:|---|---|
-| 1 | SO102 Handle, SO102 Wrist roll | 4 × M3×6, 1 × 2×6 self-tapping |
-| 2 | SO102 Trigger, servo ID 6 | 4 × M3×6, 4 × 2×6 self-tapping |
+| 1 | SO102 Handle, SO102 Wrist roll, SO102.02.130 Cable snap, SO102 Washer | 4 × M3×6 servo kit, 1 × 2×6 servo kit, 1 × M3×10 |
+| 2 | SO102 Trigger, servo ID 6 | 4 × M3×6 servo kit, 4 × 2×6 servo kit |
 
 | | |
 |:-:|:-:|

@@ -136,7 +136,7 @@ or **$373.97** including printing material, before shipping and taxes.
 <a id="3-assemble"></a>
 ### 3. Assemble
 
-- Printable booklet, 32 pages A5: [docs/SO-ARM102_assembly_A5_v0.7.pdf](../../SO-ARM102_assembly_A5_v0.7.pdf)
+- Printable booklet, 32 pages A5: [docs/SO-ARM102_assembly_A5_v0.8.pdf](../../SO-ARM102_assembly_A5_v0.8.pdf)
 - Step list with parts and fasteners: [docs/assembly-guide.md](docs/assembly-guide.md)
 
 Tools: hex keys 1.5 mm (M2 screws) and 2 mm (M3 screws).
@@ -212,7 +212,7 @@ Geometry and inertia checks are recorded in [export_verification.json](../../../
 │   ├── bom.md               # Bill of materials
 │   ├── assembly-guide.md    # Step list with parts and fasteners
 │   ├── specifications.md    # Geometry, servos, measured results vs SO-ARM 101
-│   └── SO-ARM102_assembly_A5_v0.7.pdf
+│   └── SO-ARM102_assembly_A5_v0.8.pdf
 ├── assets/
 │   ├── images/              # Photos, renders, booklet pages, test photos
 │   └── video/               # Preview video and GIF
@@ -227,7 +227,7 @@ Geometry and inertia checks are recorded in [export_verification.json](../../../
 
 Build notes from independent testing; check these when assembling.
 
-1. **Use booklet v0.7.** Earlier booklets show the HAT controller and older gripper parts. v0.7 fits a Bus Servo Adapter on both arms.
+1. **Use booklet v0.8.** Earlier booklets show the HAT controller and older gripper parts. v0.8 fits a Bus Servo Adapter on both arms.
 2. **M2 screws are hard to reach in several places.** Expect to fight a few of them.
 3. **The gripper clamps run tight on carbon rods.** The clamp bores are sized for 6.1 mm. Rod diameters vary between suppliers, so check the fit before assembly.
 4. **Check the servo cable lengths** before closing each joint, especially from the base to the shoulder.
