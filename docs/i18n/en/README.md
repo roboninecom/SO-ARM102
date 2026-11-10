@@ -241,7 +241,7 @@ Found something else? Please [open an issue](https://github.com/roboninecom/SO-A
 <a id="-star-history"></a>
 ## ⭐ Star History
 
-[![Star History — SO-ARM 102](https://api.star-history.com/svg?repos=roboninecom/so-arm-102&type=date&legend=top-left)](https://www.star-history.com/?repos=roboninecom%2Fso-arm-102&type=date&legend=top-left)
+[![Star History — SO-ARM 102](https://api.star-history.com/chart?repos=roboninecom/SO-ARM102&type=date&legend=top-left)](https://www.star-history.com/?repos=roboninecom%2FSO-ARM102&type=date&legend=top-left)
 
 ---
 
