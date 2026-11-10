@@ -12,7 +12,7 @@
 <a id="assembly-guide"></a>
 # Guía de montaje
 
-Esta guía sigue el folleto impreso [SO-ARM102_assembly_A5_v0.7.pdf](../../../SO-ARM102_assembly_A5_v0.7.pdf) página por página, imprimiéndolo en A5 horizontal si prefiere papel.
+Esta guía sigue el folleto impreso [SO-ARM102_assembly_A5_v0.8.pdf](../../../SO-ARM102_assembly_A5_v0.8.pdf) página por página, imprimiéndolo en A5 horizontal si prefiere papel.
 
 Antes de empezar:
 
@@ -62,7 +62,9 @@ Establezca el ID de cada servomotor antes de que entre en el brazo del robot.Las
 <a id="0-servo-horns"></a>
 ## 0. Servo bocinas
 
-Monte un cuerno con un tornillo M3 × 6 en el servomotor ID 1. Los servos ID 2, 3 y 4 obtienen un cuerno en ambos lados.
+Todos los servos del líder son STS3215. En el seguidor, los ID 1 e ID 4 son STS3235, y los ID 2 e ID 3 son STS3250.
+
+Monte un brazo de servo con un tornillo M3 × 6 del kit del servo en el servo ID 1. Los servos ID 2, 3 y 4 llevan un brazo en ambos lados. Los tornillos de los brazos vienen con los servos. Los tornillos marcados «servo kit» en un paso proceden del paquete del servo, no de la bolsa de tornillería suelta.
 
 Si agrega juntas tóricas al brazo del robot líder, colóquelas ahora entre el servomotor y la bocina, ya que si se equivoca en este orden puede atascarse el anillo entre la carcasa del servomotor y la bocina.
 
@@ -81,12 +83,12 @@ Repita estos pasos para ambos brazos del robot. Los nombres de las piezas impres
 | 5 | SO102.02.030 Arandela de base | 4 × M3×10, 6 × M3×16 |
 | 6 | Servos ID 2 e ID 3, 2 × SO102.02.070 brazo robot inferior, 2 cables cortos, 1 cable largo | 16 × M2×6 |
 | 7 | Servo ID 4, SO102.02.080-01 brazo robot superior derecho, 1 cable corto | 4 × M2×6 |
-| 8 | SO102.02.080 Brazo robot superior izquierdo, 2 × SO102.02.130 Cierre de cable | 4 × M2×6, 8 × M3×10 |
-| 9 | Servo ID 5, SO102.02.090 Soporte de muñeca, cuerno del servomotor | 1 × M3×6, 4 × 2×6 autoperforantes |
+| 8 | SO102.02.080 Brazo superior izquierdo | 4 × M2×6, 8 × M3×10 |
+| 9 | Servo ID 5 (STS3215), SO102.02.090 Soporte de muñeca, brazo de servo | 1 × M3×6 (del kit del servo), 4 × 2×6 (del kit del servo) |
 | 10 | 1 cable corto | 8 × M3×10 |
 | 11 | — | 8 × M3×10 |
-| 12 | SO102.02.110 Soporte de placa del líder, Bus Servo Adapter | 4 × tuerca M2, 4 × M2×8 |
-| 13 | SO102.02.110-01 Tapa de placa del líder, 1 × cable largo | — |
+| 12 | SO102.02.101 Soporte de placa, Bus Servo Adapter | 4 × tuerca M2, 4 × M2×8 |
+| 13 | SO102.02.101-01 Tapa de placa, 1 × cable largo | — |
 
 | | | |
 |:-:|:-:|:-:|
@@ -103,12 +105,12 @@ Compruebe que cada cable del servomotor llegue a la siguiente junta con algo de 
 
 | Paso | Piezas | Elementos de fijación |
 |:-:|---|---|
-| 1 | RB9.01.062.040 Engranaje para pinza en el cuerno del servomotor, ID del servomotor 6 | 4 × M3×4 tornillo de fijación, 1 × M3×6 |
+| 1 | RB9.01.062.040 Engranaje para pinza en el cuerno del servomotor, ID del servomotor 6 | 4 × M3×4 tornillo de fijación, 1 × M3×6 (del kit del servo) |
 | 2 | 2 × RB9.01.062.025 (D6.1) Abrazadera, 2 × RB9.01.062.030 Cremallera, 2 × RB9.01.062.100 Clavo | — |
 | 3 | 2 × barra Ø6 × 125 mm | — |
 | 4 | RB9.01.062.012 Marco principal (D6.1), 2 × cojinete MF106, 2 × RB9.01.062.050 Arandela | 2 × M3×10 |
 | 5 | Encaje las barras en el marco principal | — |
-| 6 | Empuje las abrazaderas a sus topes exteriores, inserte el servomotor | 3 × 2×6 autoperforante |
+| 6 | Empuje las abrazaderas a sus topes exteriores, inserte el servomotor | 3 × 2×6 (del kit del servo) |
 
 El ×2 del paso 2 indica un conjunto de mordaza para cada lado. Las cantidades de la tabla son los totales.
 
@@ -125,9 +127,9 @@ Apriete los tornillos prisioneros desde el lado del brazo del servo hacia el eng
 
 | Paso | Piezas | Elementos de fijación |
 |:-:|---|---|
-| 1 | RB9.01.062.075 Soporte de cámara | 4 × M3×10 |
-| 2 | Montaje del agarrador en la muñeca | 4 × 2×6 autoperforante |
-| 3 | RB9.01.062.090 Espaciador de cámara, cámara USB | Tuerca 4 × M2×8, 4 × M2 |
+| 1 | RB9.01.062.075 Soporte de cámara | 5 × M3×10 |
+| 2 | Montaje del agarrador en la muñeca | 4 × 2×6 (del kit del servo) |
+| 3 | RB9.01.062.090 Espaciador de cámara, cámara USB, SO102.02.130 Clip de cable | Tuerca 4 × M2×8, 4 × M2 |
 
 | | | |
 |:-:|:-:|:-:|
@@ -139,8 +141,8 @@ Apriete los tornillos prisioneros desde el lado del brazo del servo hacia el eng
 
 | Paso | Piezas | Elementos de fijación |
 |:-:|---|---|
-| 1 | SO102 mango, SO102 rollo de muñeca | 4 × M3×6, 1 × 2×6 autoperforantes |
-| 2 | SO102 Disparador, servomotor ID 6 | 4 × M3×6, 4 × 2×6 autoperforantes |
+| 1 | SO102 Mango, SO102 Giro de muñeca, SO102.02.130 Clip de cable, SO102 Arandela | 4 × M3×6 (del kit del servo), 1 × 2×6 (del kit del servo), 1 × M3×10 |
+| 2 | SO102 Disparador, servomotor ID 6 | 4 × M3×6 (del kit del servo), 4 × 2×6 (del kit del servo) |
 
 | | |
 |:-:|:-:|

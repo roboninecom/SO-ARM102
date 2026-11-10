@@ -126,7 +126,7 @@ Obtenha os componentes do [resumo da lista de materiais](#bill-of-materials) e [
 <a id="3-assemble"></a>
 ### 3. Assemble
 
-- Livro imprimível, 32 páginas A5: [docs/SO-ARM102_assembly_A5_v0.7.pdf](../../SO-ARM102_assembly_A5_v0.7.pdf)
+- Livro imprimível, 32 páginas A5: [docs/SO-ARM102_assembly_A5_v0.8.pdf](../../SO-ARM102_assembly_A5_v0.8.pdf)
 - Lista de passos com peças e fixadores: [docs/assembly-guide.md](docs/assembly-guide.md)
 
 Ferramentas: chaves hexagonais 1.5 mm (M2 parafusos) e 2 mm (M3 parafusos).
@@ -191,7 +191,7 @@ A exportação autônoma atual está em [`simulation/urdf/`](../../../simulation
 │   ├── bom.md               # Lista de materiais
 │   ├── assembly-guide.md    # Lista de passos com peças e fixadores
 │   ├── specifications.md    # Geometria, servomotores, resultados medidos vs SO-ARM 101
-│   └── SO-ARM102_assembly_A5_v0.7.pdf
+│   └── SO-ARM102_assembly_A5_v0.8.pdf
 ├── assets/
 │   ├── images/              # Fotos, renderizações, páginas de livreto, fotos de teste
 │   └── video/               # Visualização de vídeo e GIF
@@ -206,7 +206,7 @@ A exportação autônoma atual está em [`simulation/urdf/`](../../../simulation
 
 Notas de montagem de testes independentes; confira durante a montagem.
 
-1. **Use o livreto v0.7.** Os anteriores mostram o controlador HAT e peças antigas da garra. A v0.7 instala um Bus Servo Adapter nos dois braços.
+1. **Use o livreto v0.8.** Os anteriores mostram o controlador HAT e peças antigas da garra. A v0.8 instala um Bus Servo Adapter nos dois braços.
 2. **M2 parafusos são difíceis de alcançar em vários lugares.** Espere lutar contra alguns deles.
 3. **As braçadeiras da pinça funcionam firmemente em hastes de carbono.** Os orifícios das braçadeiras são dimensionados para 6.1 mm.Os diâmetros das hastes variam entre fornecedores, portanto verifique o ajuste antes da montagem.
 4. **Verifique os comprimentos dos cabos do servomotor** antes de fechar cada junta, especialmente da base para o ombro.

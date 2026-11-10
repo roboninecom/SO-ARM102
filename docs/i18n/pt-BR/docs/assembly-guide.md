@@ -12,7 +12,7 @@
 <a id="assembly-guide"></a>
 # Guia de montagem
 
-Este guia segue o livreto impresso [SO-ARM102_assembly_A5_v0.7.pdf](../../../SO-ARM102_assembly_A5_v0.7.pdf) página por página.Imprima o livreto em A5 horizontal se preferir papel.
+Este guia segue o livreto impresso [SO-ARM102_assembly_A5_v0.8.pdf](../../../SO-ARM102_assembly_A5_v0.8.pdf) página por página.Imprima o livreto em A5 horizontal se preferir papel.
 
 Antes de começar:
 
@@ -62,7 +62,9 @@ Configure o ID de cada servomotor antes que ele entre no braço do robô. Ferram
 <a id="0-servo-horns"></a>
 ## 0. Servo chifres
 
-Monte um chifre com um parafuso M3 × 6 no servomotor ID 1. Servos ID 2, 3 e 4 obtêm um chifre em ambos os lados. Parafusos de chifre vêm com os servomotores.
+Todos os servos do líder são STS3215. No seguidor, os ID 1 e ID 4 são STS3235, e os ID 2 e ID 3 são STS3250.
+
+Monte um braço de servo com um parafuso M3 × 6 do kit do servo no servo ID 1. Os servos ID 2, 3 e 4 recebem um braço em cada lado. Os parafusos dos braços acompanham os servos. Os parafusos marcados como “servo kit” em uma etapa vêm da embalagem do servo, não do saco separado de fixadores.
 
 Se você adicionar anéis de vedação ao braço do robô líder, coloque-os entre o servomotor e a buzina agora.Obter essa ordem errada pode bloquear o anel entre a carcaça do servomotor e a buzina.
 
@@ -81,12 +83,12 @@ Repita esses passos para ambos os braços do robô. Os nomes das peças impressa
 | 5 | SO102.02.030 Arruela de base | 4 × M3×10, 6 × M3×16 |
 | 6 | Servos ID 2 e ID 3, 2 × SO102.02.070 braço inferior do robô, 2 cabos curtos, 1 cabo longo | 16 × M2×6 |
 | 7 | Servo ID 4, SO102.02.080-01 braço superior direito do robô, 1 cabo curto | 4 × M2×6 |
-| 8 | SO102.02.080 Braço superior do robô esquerdo, 2 × SO102.02.130 Encaixe de cabo | 4 × M2×6, 8 × M3×10 |
-| 9 | Servo ID 5, SO102.02.090 Suporte de pulso, chifre do servomotor | 1 × M3×6, 4 × 2×6 auto-roscante |
+| 8 | SO102.02.080 Braço superior esquerdo | 4 × M2×6, 8 × M3×10 |
+| 9 | Servo ID 5 (STS3215), SO102.02.090 Suporte do pulso, braço de servo | 1 × M3×6 (do kit do servo), 4 × 2×6 (do kit do servo) |
 | 10 | 1 cabo curto | 8 × M3×10 |
 | 11 | — | 8 × M3×10 |
-| 12 | SO102.02.110 Suporte da placa do líder, Bus Servo Adapter | 4 × porca M2, 4 × M2×8 |
-| 13 | SO102.02.110-01 Tampa da placa do líder, 1 × cabo longo | — |
+| 12 | SO102.02.101 Suporte da placa, Bus Servo Adapter | 4 × porca M2, 4 × M2×8 |
+| 13 | SO102.02.101-01 Tampa da placa, 1 × cabo longo | — |
 
 | | | |
 |:-:|:-:|:-:|
@@ -103,12 +105,12 @@ Verifique se cada cabo do servomotor atinge a próxima junta com alguma folga an
 
 | Etapa | Peças | Fixadores |
 |:-:|---|---|
-| 1 | RB9.01.062.040 Engrenagem para garra no chifre do servomotor, ID do servomotor 6 | 4 × M3×4 parafuso de fixação, 1 × M3×6 |
+| 1 | RB9.01.062.040 Engrenagem para garra no chifre do servomotor, ID do servomotor 6 | 4 × M3×4 parafuso de fixação, 1 × M3×6 (do kit do servo) |
 | 2 | 2 × RB9.01.062.025 (D6.1) braçadeira, 2 × RB9.01.062.030 cremalheira de engrenagem, 2 × RB9.01.062.100 prego | — |
 | 3 | 2 × haste Ø6 × 125 mm | — |
 | 4 | RB9.01.062.012 Quadro principal (D6.1), 2 × rolamento MF106, 2 × RB9.01.062.050 Arruela | 2 × M3×10 |
 | 5 | Encaixe as hastes no quadro principal | — |
-| 6 | Empurre as braçadeiras para suas paradas exteriores, introduza o servomotor | 3 × 2×6 auto-roscante |
+| 6 | Empurre as braçadeiras para suas paradas exteriores, introduza o servomotor | 3 × 2×6 (do kit do servo) |
 
 O ×2 na etapa 2 indica um conjunto de mandíbula para cada lado. As quantidades na tabela são os totais.
 
@@ -125,9 +127,9 @@ Aperte os parafusos de fixação do lado do braço do servo em direção à engr
 
 | Etapa | Peças | Fixadores |
 |:-:|---|---|
-| 1 | RB9.01.062.075 Suporte para câmera | 4 × M3×10 |
-| 2 | Conjunto do prendedor no pulso | 4 × 2×6 auto-roscante |
-| 3 | RB9.01.062.090 Espaçador de câmera, câmera USB | Porca 4 × M2×8, 4 × M2 |
+| 1 | RB9.01.062.075 Suporte para câmera | 5 × M3×10 |
+| 2 | Conjunto do prendedor no pulso | 4 × 2×6 (do kit do servo) |
+| 3 | RB9.01.062.090 Espaçador de câmera, câmera USB, SO102.02.130 Clipe de cabo | Porca 4 × M2×8, 4 × M2 |
 
 | | | |
 |:-:|:-:|:-:|
@@ -139,8 +141,8 @@ Aperte os parafusos de fixação do lado do braço do servo em direção à engr
 
 | Etapa | Peças | Fixadores |
 |:-:|---|---|
-| 1 | SO102 Punho, SO102 Rolo de pulso | 4 × M3×6, 1 × 2×6 auto-roscante |
-| 2 | SO102 Gatilho, servomotor ID 6 | 4 × M3×6, 4 × 2×6 auto-roscante |
+| 1 | SO102 Punho, SO102 Rotação do pulso, SO102.02.130 Clipe de cabo, SO102 Arruela | 4 × M3×6 (do kit do servo), 1 × 2×6 (do kit do servo), 1 × M3×10 |
+| 2 | SO102 Gatilho, servomotor ID 6 | 4 × M3×6 (do kit do servo), 4 × 2×6 (do kit do servo) |
 
 | | |
 |:-:|:-:|
