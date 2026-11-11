@@ -126,7 +126,7 @@ Recherchez les composants dans [résumé de la nomenclature](#bill-of-materials)
 <a id="3-assemble"></a>
 ### 3. Assembler
 
-- Livret imprimable, 32 pages A5: [docs/SO-ARM102_assembly_A5_v0.7.pdf](../../SO-ARM102_assembly_A5_v0.7.pdf)
+- Livret imprimable, 32 pages A5: [docs/SO-ARM102_assembly_A5_v0.8.pdf](../../SO-ARM102_assembly_A5_v0.8.pdf)
 - Liste des étapes avec pièces et fixations: [docs/assembly-guide.md](docs/assembly-guide.md)
 
 Outils: clés hexagonales 1.5 mm (M2 vis) et 2 mm (M3 vis).
@@ -191,7 +191,7 @@ L'exportation autonome actuelle est dans [`simulation/urdf/`](../../../simulatio
 │   ├── bom.md               # Nomenclature
 │   ├── assembly-guide.md    # Liste étape par étape avec pièces et fixations
 │   ├── specifications.md    # Géométrie, servomoteurs, résultats de mesure vs SO-ARM 101
-│   └── SO-ARM102_assembly_A5_v0.7.pdf
+│   └── SO-ARM102_assembly_A5_v0.8.pdf
 ├── assets/
 │   ├── images/              # Photos, rendus, pages de livret, photos de test
 │   └── video/               # Aperçu vidéo et GIF
@@ -206,7 +206,7 @@ L'exportation autonome actuelle est dans [`simulation/urdf/`](../../../simulatio
 
 Remarques issues de tests indépendants ; vérifiez-les au montage.
 
-1. **Utilisez le livret v0.7.** Les anciens livrets montrent le contrôleur HAT et les anciennes pièces de pince. La v0.7 installe un Bus Servo Adapter sur les deux bras.
+1. **Utilisez le livret v0.8.** Les anciens livrets montrent le contrôleur HAT et les anciennes pièces de pince. La v0.8 installe un Bus Servo Adapter sur les deux bras.
 2. **M2 vis sont difficiles à atteindre dans plusieurs endroits.** Attendez-vous à combattre quelques-uns d'entre eux.
 3. **Les pinces de préhension sont serrées sur les tiges en carbone.** Les trous de serrage sont dimensionnés pour 6.1 mm.Le diamètre des tiges varie selon les fournisseurs, vérifiez donc l'ajustement avant le montage.
 4. **Vérifiez les longueurs de câble du servomoteur** avant de fermer chaque joint, en particulier de la base à l'épaule.

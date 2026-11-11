@@ -12,7 +12,7 @@
 <a id="assembly-guide"></a>
 # Montageanleitung
 
-Diese Anleitung folgt der gedruckten Broschüre [SO-ARM102_assembly_A5_v0.7.pdf](../../../SO-ARM102_assembly_A5_v0.7.pdf) Seite für Seite und druckt die Broschüre auf A5 Querformat aus, wenn Sie Papier bevorzugen.
+Diese Anleitung folgt der gedruckten Broschüre [SO-ARM102_assembly_A5_v0.8.pdf](../../../SO-ARM102_assembly_A5_v0.8.pdf) Seite für Seite und druckt die Broschüre auf A5 Querformat aus, wenn Sie Papier bevorzugen.
 
 Vor dem Beginn:
 
@@ -62,7 +62,9 @@ Stellen Sie die ID jedes Servomotors ein, bevor er in den Roboterarm gelangt. To
 <a id="0-servo-horns"></a>
 ## 0. Servohörner
 
-Ein Horn wird mit einer M3 × 6 Schraube am Servomotor ID 1 befestigt. Die Servos ID 2, 3 und 4 erhalten auf beiden Seiten ein Horn.
+Alle Servos des Leaders sind STS3215. Beim Follower sind ID 1 und ID 4 STS3235 sowie ID 2 und ID 3 STS3250.
+
+Befestigen Sie ein Servohorn mit einer M3 × 6 Schraube aus dem Servopaket am Servo ID 1. Die Servos ID 2, 3 und 4 erhalten auf beiden Seiten ein Horn. Die Hornschrauben liegen den Servos bei. In einem Schritt mit „servo kit“ gekennzeichnete Schrauben stammen aus dem Servopaket, nicht aus dem separaten Schraubenbeutel.
 
 Wenn Sie O-Ringe an den Roboterarm des Leiters anbringen, setzen Sie sie jetzt zwischen Servomotor und Horn ein, da eine falsche Reihenfolge dazu führen kann, dass der Ring zwischen Servomotorgehäuse und Horn verklemmt.
 
@@ -81,12 +83,12 @@ Wiederholen Sie diese Schritte für beide Roboterarme. Die Namen der Druckteile 
 | 5 | SO102.02.030 Unterlegscheibe | 4 × M3×10, 6 × M3×16 |
 | 6 | Servos ID 2 und ID 3, 2 × SO102.02.070 Roboterarm unten, 2 kurze Kabel, 1 langes Kabel | 16 × M2×6 |
 | 7 | Servo ID 4, SO102.02.080-01 Roboterarm oben rechts, 1 kurze Leitung | 4 × M2×6 |
-| 8 | SO102.02.080 Oberer Roboterarm links, 2 × SO102.02.130 Kabelverschluss | 4 × M2×6, 8 × M3×10 |
-| 9 | Servo ID 5, SO102.02.090 Handgelenkhalterung, Servomotorhorn | 1 × M3×6, 4 × 2×6 selbstschneidend |
+| 8 | SO102.02.080 Oberarm links | 4 × M2×6, 8 × M3×10 |
+| 9 | Servo ID 5 (STS3215), SO102.02.090 Handgelenkhalter, Servohorn | 1 × M3×6 (aus dem Servopaket), 4 × 2×6 (aus dem Servopaket) |
 | 10 | 1 Kurzes Kabel | 8 × M3×10 |
 | 11 | — | 8 × M3×10 |
-| 12 | SO102.02.110 Leader-Platinenhalter, Bus Servo Adapter | 4 × M2-Mutter, 4 × M2×8 |
-| 13 | SO102.02.110-01 Leader-Platinenabdeckung, 1 × langes Kabel | — |
+| 12 | SO102.02.101 Platinenhalter, Bus Servo Adapter | 4 × M2-Mutter, 4 × M2×8 |
+| 13 | SO102.02.101-01 Platinenabdeckung, 1 × langes Kabel | — |
 
 | | | |
 |:-:|:-:|:-:|
@@ -103,12 +105,12 @@ Prüfen Sie, ob jedes Servomotorkabel die nächste Verbindung mit etwas Spiel er
 
 | Schritt | Teile | Befestigungsmittel |
 |:-:|---|---|
-| 1 | RB9.01.062.040 Getriebe für Greifer am Servomotorhorn, Servomotor ID 6 | 4 × M3×4 Stellschraube, 1 × M3×6 |
+| 1 | RB9.01.062.040 Getriebe für Greifer am Servomotorhorn, Servomotor ID 6 | 4 × M3×4 Stellschraube, 1 × M3×6 (aus dem Servopaket) |
 | 2 | 2 × RB9.01.062.025 (D6.1) Klammer, 2 × RB9.01.062.030 Zahnstange, 2 × RB9.01.062.100 Nagel | — |
 | 3 | 2 × Stab Ø6 × 125 mm | — |
 | 4 | RB9.01.062.012 Hauptrahmen (D6.1), 2 × Lager MF106, 2 × RB9.01.062.050 Unterlegscheibe | 2 × M3×10 |
 | 5 | Schnappen Sie die Stangen in den Hauptrahmen | — |
-| 6 | Die Klemmen auf ihre äußeren Anschläge schieben, den Servomotor einsetzen | 3 × 2×6 selbstschneidend |
+| 6 | Die Klemmen auf ihre äußeren Anschläge schieben, den Servomotor einsetzen | 3 × 2×6 (aus dem Servopaket) |
 
 ×2 in Schritt 2 bedeutet eine Backenbaugruppe pro Seite. Die Mengen in der Tabelle sind Gesamtmengen.
 
@@ -125,9 +127,9 @@ Ziehen Sie die Gewindestifte von der Seite des Servohorns in Richtung Zahnrad fe
 
 | Schritt | Teile | Befestigungsmittel |
 |:-:|---|---|
-| 1 | RB9.01.062.075 Kamerahalter | 4 × M3×10 |
-| 2 | Greifermontage am Handgelenk | 4 × 2×6 selbstschneidend |
-| 3 | RB9.01.062.090 Kamera-Abstandshalter, USB-Kamera | 4 × M2×8, 4 × M2 Mutter |
+| 1 | RB9.01.062.075 Kamerahalter | 5 × M3×10 |
+| 2 | Greifermontage am Handgelenk | 4 × 2×6 (aus dem Servopaket) |
+| 3 | RB9.01.062.090 Kamera-Abstandshalter, USB-Kamera, SO102.02.130 Kabelclip | 4 × M2×8, 4 × M2 Mutter |
 
 | | | |
 |:-:|:-:|:-:|
@@ -139,8 +141,8 @@ Ziehen Sie die Gewindestifte von der Seite des Servohorns in Richtung Zahnrad fe
 
 | Schritt | Teile | Befestigungsmittel |
 |:-:|---|---|
-| 1 | SO102 Handgriff, SO102 Handgelenkrolle | 4 × M3×6, 1 × 2×6 selbstschneidend |
-| 2 | SO102 Trigger, Servomotor ID 6 | 4 × M3×6, 4 × 2×6 selbstschneidend |
+| 1 | SO102 Handgriff, SO102 Handgelenkdrehung, SO102.02.130 Kabelclip, SO102 Unterlegscheibe | 4 × M3×6 (aus dem Servopaket), 1 × 2×6 (aus dem Servopaket), 1 × M3×10 |
+| 2 | SO102 Trigger, Servomotor ID 6 | 4 × M3×6 (aus dem Servopaket), 4 × 2×6 (aus dem Servopaket) |
 
 | | |
 |:-:|:-:|

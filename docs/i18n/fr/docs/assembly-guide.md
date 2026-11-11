@@ -12,7 +12,7 @@
 <a id="assembly-guide"></a>
 # Guide de montage
 
-Ce guide suit le livret imprimé [SO-ARM102_assembly_A5_v0.7.pdf](../../../SO-ARM102_assembly_A5_v0.7.pdf) page par page, imprimé sur A5 paysage si vous préférez du papier.
+Ce guide suit le livret imprimé [SO-ARM102_assembly_A5_v0.8.pdf](../../../SO-ARM102_assembly_A5_v0.8.pdf) page par page, imprimé sur A5 paysage si vous préférez du papier.
 
 Avant de commencer :
 
@@ -62,7 +62,9 @@ Réglez l'ID de chaque servomoteur avant qu'il ne passe dans le bras du robot.Le
 <a id="0-servo-horns"></a>
 ## 0. Servo klaxons
 
-Montez une corne avec une vis M3 × 6 sur le servomoteur ID 1. Les servos ID 2, 3 et 4 reçoivent une corne des deux côtés.
+Tous les servomoteurs du leader sont des STS3215. Sur le suiveur, les ID 1 et ID 4 sont des STS3235, et les ID 2 et ID 3 sont des STS3250.
+
+Montez un palonnier avec une vis M3 × 6 du kit du servomoteur sur le servomoteur ID 1. Les servomoteurs ID 2, 3 et 4 reçoivent un palonnier de chaque côté. Les vis des palonniers sont fournies avec les servomoteurs. Les vis marquées « servo kit » à une étape proviennent du sachet du servomoteur, pas du sachet de visserie séparé.
 
 Si vous ajoutez des joints toriques au bras du robot leader, placez-les maintenant entre le servomoteur et la corne.Si vous ne respectez pas cet ordre, l'anneau entre la coque du servomoteur et la corne risque de se coincer.
 
@@ -81,12 +83,12 @@ Répétez ces étapes pour les deux bras robotiques. Les noms des pièces imprim
 | 5 | SO102.02.030 Rondelle de base | 4 × M3×10, 6 × M3×16 |
 | 6 | Servos ID 2 et ID 3, 2 × SO102.02.070 bras robot inférieur, 2 câbles courts, 1 câble long | 16 × M2×6 |
 | 7 | Servo ID 4, SO102.02.080-01 bras robot supérieur droit, 1 câble court | 4 × M2×6 |
-| 8 | SO102.02.080 Bras robot supérieur gauche, 2 × SO102.02.130 Mousqueton de câble | 4 × M2×6, 8 × M3×10 |
-| 9 | Servo ID 5, SO102.02.090 Support de poignet, klaxon servomoteur | 1 × M3×6, 4 × 2×6 autotaraudeurs |
+| 8 | SO102.02.080 Bras supérieur gauche | 4 × M2×6, 8 × M3×10 |
+| 9 | Servomoteur ID 5 (STS3215), SO102.02.090 Support de poignet, palonnier | 1 × M3×6 (du kit du servomoteur), 4 × 2×6 (du kit du servomoteur) |
 | 10 | 1 câble court | 8 × M3×10 |
 | 11 | — | 8 × M3×10 |
-| 12 | SO102.02.110 Support de carte du leader, Bus Servo Adapter | 4 × écrou M2, 4 × M2×8 |
-| 13 | SO102.02.110-01 Couvercle de carte du leader, 1 × câble long | — |
+| 12 | SO102.02.101 Support de carte, Bus Servo Adapter | 4 × écrou M2, 4 × M2×8 |
+| 13 | SO102.02.101-01 Couvercle de carte, 1 × câble long | — |
 
 | | | |
 |:-:|:-:|:-:|
@@ -103,12 +105,12 @@ Vérifiez que chaque câble de servomoteur atteigne le prochain joint avec un ce
 
 | Étape | Pièces | Fixations |
 |:-:|---|---|
-| 1 | RB9.01.062.040 Engrenage pour préhenseur sur le klaxon du servomoteur, servomoteur ID 6 | 4 × M3×4 vis de réglage, 1 × M3×6 |
+| 1 | RB9.01.062.040 Engrenage pour préhenseur sur le klaxon du servomoteur, servomoteur ID 6 | 4 × M3×4 vis de réglage, 1 × M3×6 (du kit du servomoteur) |
 | 2 | Pince 2 × RB9.01.062.025 (D6.1), crémaillère 2 × RB9.01.062.030, clou 2 × RB9.01.062.100 | — |
 | 3 | 2 × tige Ø6 × 125 mm | — |
 | 4 | RB9.01.062.012 Cadre principal (D6.1), 2 × roulement MF106, 2 × RB9.01.062.050 Rondelle | 2 × M3×10 |
 | 5 | Encliquetez les tiges dans le cadre principal | — |
-| 6 | Poussez les pinces à leurs butées extérieures, insérez le servomoteur | 3 × 2×6 autotaraudeurs |
+| 6 | Poussez les pinces à leurs butées extérieures, insérez le servomoteur | 3 × 2×6 (du kit du servomoteur) |
 
 Le ×2 de l’étape 2 correspond à un ensemble de mâchoire de chaque côté. Les quantités du tableau sont les totaux.
 
@@ -125,9 +127,9 @@ Serrez les vis de pression du côté du palonnier vers l'engrenage afin de ne la
 
 | Étape | Pièces | Fixations |
 |:-:|---|---|
-| 1 | RB9.01.062.075 Support pour appareil photo | 4 × M3×10 |
-| 2 | Montage de la pince sur le poignet | 4 × 2×6 autotaraudeurs |
-| 3 | RB9.01.062.090 Entretoise de caméra, caméra USB | Écrou 4 × M2×8, 4 × M2 |
+| 1 | RB9.01.062.075 Support pour appareil photo | 5 × M3×10 |
+| 2 | Montage de la pince sur le poignet | 4 × 2×6 (du kit du servomoteur) |
+| 3 | RB9.01.062.090 Entretoise de caméra, caméra USB, SO102.02.130 Clip de câble | Écrou 4 × M2×8, 4 × M2 |
 
 | | | |
 |:-:|:-:|:-:|
@@ -139,8 +141,8 @@ Serrez les vis de pression du côté du palonnier vers l'engrenage afin de ne la
 
 | Étape | Pièces | Fixations |
 |:-:|---|---|
-| 1 | SO102 Poignée, SO102 Rouleau de poignet | 4 × M3×6, 1 × 2×6 autotaraudeurs |
-| 2 | SO102 Déclencheur, servomoteur ID 6 | 4 × M3×6, 4 × 2×6 autotaraudeurs |
+| 1 | SO102 Poignée, SO102 Rotation du poignet, SO102.02.130 Clip de câble, SO102 Rondelle | 4 × M3×6 (du kit du servomoteur), 1 × 2×6 (du kit du servomoteur), 1 × M3×10 |
+| 2 | SO102 Déclencheur, servomoteur ID 6 | 4 × M3×6 (du kit du servomoteur), 4 × 2×6 (du kit du servomoteur) |
 
 | | |
 |:-:|:-:|

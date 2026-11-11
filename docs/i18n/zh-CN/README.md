@@ -126,7 +126,7 @@
 <a id="3-assemble"></a>
 ### 3. 组装
 
-- 可打印的小册子，32页 A5：[docs/SO-ARM102_assembly_A5_v0.7.pdf](../../SO-ARM102_assembly_A5_v0.7.pdf)
+- 可打印的小册子，32页 A5：[docs/SO-ARM102_assembly_A5_v0.8.pdf](../../SO-ARM102_assembly_A5_v0.8.pdf)
 - 带有零件和紧固件的步骤列表: [docs/assembly-guide.md ](docs/assembly-guide.md)
 
 工具:六角钥匙 1.5 mm (M2螺丝) 和 2 mm (M3螺丝) 。
@@ -191,7 +191,7 @@
 │   ├── bom.md               # 物料清单
 │   ├── assembly-guide.md    # 带有零件和紧固件的步骤列表
 │   ├── specifications.md    # 几何形状、伺服电机、测量结果 vs SO-ARM 101
-│   └── SO-ARM102_assembly_A5_v0.7.pdf
+│   └── SO-ARM102_assembly_A5_v0.8.pdf
 ├── assets/
 │   ├── images/              # 照片,渲染,小册子页面,测试照片
 │   └── video/               # 预览视频和GIF
@@ -206,7 +206,7 @@
 
 以下是独立测试装配中的注意事项，组装时请检查。
 
-1. **请使用 v0.7 手册。** 旧版手册展示 HAT 控制器和旧版夹爪零件。v0.7 为两只机械臂均安装 Bus Servo Adapter。
+1. **请使用 v0.8 手册。** 旧版手册展示 HAT 控制器和旧版夹爪零件。v0.8 为两只机械臂均安装 Bus Servo Adapter。
 2. **M2 螺丝在几个地方很难触及。** 预计会与其中一些人战斗。
 3. **夹持器夹具在碳棒上运行时紧固。** 夹持孔尺寸为 6.1 mm。 杆直径因供应商而异,因此在装配前检查适合性。
 4. ** 在关闭每个接头之前检查伺服电机的电缆长度,特别是从底座到肩部。
