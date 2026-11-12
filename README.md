@@ -175,6 +175,29 @@ Geometry and inertia checks are recorded in [export_verification.json](simulatio
 
 ---
 
+## MuJoCo model
+
+A [MuJoCo](https://mujoco.org) model of the follower is in [`simulation/mjcf/`](simulation/mjcf/):
+[model](simulation/mjcf/so_arm_102.xml) · [scene with a floor](simulation/mjcf/scene.xml).
+It is generated from the URDF and reuses its meshes, inertials, joint limits and collision boxes.
+After changing the URDF, regenerate it with `python simulation/mjcf/build_mjcf.py`.
+
+- **Joints:** LeRobot names (`shoulder_pan` … `wrist_roll`), in radians, with zero at the middle of each range,
+  as in the SO-101 model. Shoulder lift and elbow flex turn the SO-101 way, opposite to the URDF axes,
+  so that the SO-101 leader maps one to one in degrees. Keyframe `cad` is the CAD pose.
+- **Gripper:** one `gripper` actuator sets the jaw span, 0 to 0.083 m; a constraint keeps the jaws symmetric.
+- **Servos:** position actuators limited to the URDF stall torques. Gains, damping and friction are scaled
+  from the SO-101 STS3215 model; they are estimates, not measured on this arm.
+- **Check:** in 100,000 random collision-free poses the gripper tip reaches 488 mm horizontally and 541 mm high,
+  against 483 mm and 544 mm in [the specifications](docs/specifications.md).
+
+```bash
+pip install mujoco
+python -m mujoco.viewer --mjcf=simulation/mjcf/scene.xml   # mjpython on macOS
+```
+
+---
+
 ## 📁 Repository structure
 
 ```
