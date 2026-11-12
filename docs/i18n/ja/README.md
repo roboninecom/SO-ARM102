@@ -220,7 +220,7 @@ SO-ARM 102 フォロワープラグインと標準の `so101_leader` 型を使�
 <a id="-star-history"></a>
 ## ⭐ スター数の推移
 
-[![スター数の推移 — SO-ARM 102](https://api.star-history.com/chart?repos=roboninecom/SO-ARM102&type=date&legend=top-left)](https://www.star-history.com/?repos=roboninecom%2FSO-ARM102&type=date&legend=top-left)
+[![スター数の推移 — SO-ARM 102](https://api.star-history.com/chart?repos=roboninecom/SO-ARM102&type=date&legend=top-left&v=20261112)](https://www.star-history.com/?repos=roboninecom%2FSO-ARM102&type=date&legend=top-left)
 
 ---
 
