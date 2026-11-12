@@ -222,7 +222,7 @@
 <a id="-star-history"></a>
 ## ⭐ سجل النجوم
 
-[![سجل النجوم — SO-ARM 102](https://api.star-history.com/chart?repos=roboninecom/SO-ARM102&type=date&legend=top-left)](https://www.star-history.com/?repos=roboninecom%2FSO-ARM102&type=date&legend=top-left)
+[![سجل النجوم — SO-ARM 102](https://api.star-history.com/chart?repos=roboninecom/SO-ARM102&type=date&legend=top-left&v=20261112)](https://www.star-history.com/?repos=roboninecom%2FSO-ARM102&type=date&legend=top-left)
 
 ---
 
