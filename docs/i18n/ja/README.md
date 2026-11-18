@@ -14,9 +14,9 @@
 
 <div align="center">
 
-[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](../../../assets/video/so-arm-102-preview.mp4)
+[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)
 
-**🎥 [プレビュービデオを見る](../../../assets/video/so-arm-102-preview.mp4)**·**🛒[キットを買う](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
+**🎥 [プレビュービデオを見る](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)**·**🛒[キットを買う](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
 
 **SO-ARM 102 は、遠隔操作と模倣学習のためのオープンソースのリーダー・フォロワーロボットアームキットです。各アームは五つの自由度とグリッパーを備えています。**
 
@@ -59,7 +59,7 @@ SO-ARM 100 と 101 を基に、より剛性の高い PET-CF フレームと平�
 
 <div align="center">
 
-[![SO-ARM 102 プレビュー](../../../assets/video/so-arm-102-preview.gif)](../../../assets/video/so-arm-102-preview.mp4)
+[![SO-ARM 102 プレビュー](../../../assets/video/so-arm-102-preview.gif)](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)
 
 *クリックすると動画全編（21 s）を再生します。*
 

@@ -14,9 +14,9 @@
 
 <div align="center">
 
-[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](../../../assets/video/so-arm-102-preview.mp4)
+[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)
 
-**🎥 [पूर्वावलोकन वीडियो देखें](../../../assets/video/so-arm-102-preview.mp4)**·**🛒 [किट खरीदें](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
+**🎥 [पूर्वावलोकन वीडियो देखें](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)**·**🛒 [किट खरीदें](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
 
 **SO-ARM 102 टेलीऑपरेशन और अनुकरण से सीखने के लिए एक ओपन-सोर्स लीडर–फॉलोअर रोबोट आर्म किट है। प्रत्येक आर्म में पाँच स्वतंत्रता की डिग्रियाँ और एक ग्रिपर है।**
 
@@ -59,7 +59,7 @@ SO-ARM 100 और 101 पर आधारित यह किट अधिक �
 
 <div align="center">
 
-[![SO-ARM 102 पूर्वावलोकन](../../../assets/video/so-arm-102-preview.gif)](../../../assets/video/so-arm-102-preview.mp4)
+[![SO-ARM 102 पूर्वावलोकन](../../../assets/video/so-arm-102-preview.gif)](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)
 
 * पूर्ण वीडियो के लिए क्लिक करें, 21 s *
 
