@@ -14,9 +14,9 @@
 
 <div align="center">
 
-[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](../../../assets/video/so-arm-102-preview.mp4)
+[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)
 
-**🎥 [Watch the preview video](../../../assets/video/so-arm-102-preview.mp4)** · **🛒 [Buy the kit](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
+**🎥 [Watch the preview video](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)** · **🛒 [Buy the kit](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
 
 **SO-ARM 102 is an open-source leader–follower robot arm kit for teleoperation and imitation learning. Each arm has five degrees of freedom plus a gripper.**
 
@@ -63,7 +63,7 @@ Building on SO-ARM 100 and 101, it combines a stiffer PET-CF frame with a parall
 
 <div align="center">
 
-[![SO-ARM 102 preview](../../../assets/video/so-arm-102-preview.gif)](../../../assets/video/so-arm-102-preview.mp4)
+[![SO-ARM 102 preview](../../../assets/video/so-arm-102-preview.gif)](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)
 
 *Click for the full video, 21 s*
 

@@ -16,9 +16,9 @@
 
 <div align="center">
 
-[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](../../../assets/video/so-arm-102-preview.mp4)
+[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)
 
-**🎥 [مشاهدة الفيديو المسبق](../../../assets/video/so-arm-102-preview.mp4)**·**🛒 [شراء المجموعة](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
+**🎥 [مشاهدة الفيديو المسبق](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)**·**🛒 [شراء المجموعة](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
 
 **SO-ARM 102 هو طقم أذرع روبوتية مفتوح المصدر يضم ذراعًا قائدة وذراعًا تابعة للتشغيل عن بُعد والتعلم بالتقليد. لكل ذراع خمس درجات حرية وماسك إضافي.**
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-[![SO-ARM 102 استعراض](../../../assets/video/so-arm-102-preview.gif)](../../../assets/video/so-arm-102-preview.mp4)
+[![SO-ARM 102 استعراض](../../../assets/video/so-arm-102-preview.gif)](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)
 
 *انقر للفيديو الكامل، 21 s*
 

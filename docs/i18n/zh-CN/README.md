@@ -14,9 +14,9 @@
 
 <div align="center">
 
-[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](../../../assets/video/so-arm-102-preview.mp4)
+[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)
 
-**🎥 [观看预览视频 ](../../../assets/video/so-arm-102-preview.mp4)**·**🛒 [购买套装 ](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
+**🎥 [观看预览视频 ](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)**·**🛒 [购买套装 ](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
 
 **SO-ARM 102 是一套用于遥操作和模仿学习的开源主从机械臂套件。每个机械臂均具有五个自由度和一个夹爪。**
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-[![SO-ARM 102 预览](../../../assets/video/so-arm-102-preview.gif)](../../../assets/video/so-arm-102-preview.mp4)
+[![SO-ARM 102 预览](../../../assets/video/so-arm-102-preview.gif)](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)
 
 *点击查看完整视频, 21 s *
 
