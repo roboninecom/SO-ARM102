@@ -14,9 +14,9 @@
 
 <div align="center">
 
-[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)
+[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](https://www.youtube.com/watch?v=0L-BLQ0befc)
 
-**🎥 [Посмотреть видео](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)**·**🛒 [Купить комплект](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
+**🎥 [Посмотреть видео](https://www.youtube.com/watch?v=0L-BLQ0befc)**·**🛒 [Купить комплект](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
 
 **SO-ARM 102 — открытый комплект ведущей и ведомой роботизированных рук для телеуправления и обучения по демонстрациям. Каждая рука имеет пять степеней свободы и захват.**
 
@@ -59,7 +59,7 @@
 
 <div align="center">
 
-[![Видео SO-ARM 102](../../../assets/video/so-arm-102-preview.gif)](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)
+[![Видео SO-ARM 102](../../../assets/video/so-arm-102-preview.gif)](https://www.youtube.com/watch?v=0L-BLQ0befc)
 
 *Нажмите, чтобы посмотреть полное видео, 21 s*
 

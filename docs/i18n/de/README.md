@@ -14,9 +14,9 @@
 
 <div align="center">
 
-[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)
+[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](https://www.youtube.com/watch?v=0L-BLQ0befc)
 
-**🎥 [Sehen Sie sich das Vorschauvideo an](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)**·**🛒 [Kaufen Sie das Kit](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
+**🎥 [Sehen Sie sich das Vorschauvideo an](https://www.youtube.com/watch?v=0L-BLQ0befc)**·**🛒 [Kaufen Sie das Kit](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
 
 **SO-ARM 102 ist ein quelloffenes Leader-Follower-Roboterarm-Kit für Teleoperation und Imitationslernen. Jeder Arm hat fünf Freiheitsgrade und einen zusätzlichen Greifer.**
 
@@ -59,7 +59,7 @@ Aufbauend auf SO-ARM 100 und 101 verbindet es einen steiferen PET-CF-Rahmen mit 
 
 <div align="center">
 
-[![SO-ARM 102 preview](../../../assets/video/so-arm-102-preview.gif)](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)
+[![SO-ARM 102 preview](../../../assets/video/so-arm-102-preview.gif)](https://www.youtube.com/watch?v=0L-BLQ0befc)
 
 *Klicken Sie für das vollständige Video, 21 s*
 

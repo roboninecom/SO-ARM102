@@ -14,9 +14,9 @@
 
 <div align="center">
 
-[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)
+[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](https://www.youtube.com/watch?v=0L-BLQ0befc)
 
-**🎥 [Veja o vídeo de pré-visualização](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)**·**🛒 [Compre o kit](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
+**🎥 [Veja o vídeo de pré-visualização](https://www.youtube.com/watch?v=0L-BLQ0befc)**·**🛒 [Compre o kit](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
 
 **SO-ARM 102 é um kit de braços robóticos líder–seguidor de código aberto para teleoperação e aprendizado por imitação. Cada braço tem cinco graus de liberdade e uma garra.**
 
@@ -59,7 +59,7 @@ Com base no SO-ARM 100 e 101, combina uma estrutura de PET-CF mais rígida com u
 
 <div align="center">
 
-[![SO-ARM 102 preview](../../../assets/video/so-arm-102-preview.gif)](https://robonine.com/wp-content/uploads/landing/102/preview.mp4)
+[![SO-ARM 102 preview](../../../assets/video/so-arm-102-preview.gif)](https://www.youtube.com/watch?v=0L-BLQ0befc)
 
 *Clique para ver o vídeo completo, 21 s*
 
