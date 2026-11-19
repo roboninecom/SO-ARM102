@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](https://www.youtube.com/watch?v=0L-BLQ0befc)
+![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)
 
 **🎥 [Ver el video de vista previa](https://www.youtube.com/watch?v=0L-BLQ0befc)**·**🛒 [Comprar el kit](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
 

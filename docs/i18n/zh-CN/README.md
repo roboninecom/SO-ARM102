@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](https://www.youtube.com/watch?v=0L-BLQ0befc)
+![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)
 
 **🎥 [观看预览视频 ](https://www.youtube.com/watch?v=0L-BLQ0befc)**·**🛒 [购买套装 ](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
 
