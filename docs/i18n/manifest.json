@@ -673,6 +673,61 @@
         }
       },
       "source_sha256": "fc0822016ecfeb0fe2403716b35e66889d87f54b6bb77b10028a7ec2724e3937"
+    },
+    "simulation/ros2/so_arm_102_description/README.md": {
+      "source_sha256": "68392ab3f197f5446536c458b48e8f368684a5e3fbd34c27cbd2750a27691947",
+      "translations": {
+        "en": {
+          "path": "docs/i18n/en/simulation/ros2/so_arm_102_description/README.md",
+          "source_sha256": "68392ab3f197f5446536c458b48e8f368684a5e3fbd34c27cbd2750a27691947",
+          "review": "source-copy"
+        },
+        "ru": {
+          "path": "docs/i18n/ru/simulation/ros2/so_arm_102_description/README.md",
+          "source_sha256": "68392ab3f197f5446536c458b48e8f368684a5e3fbd34c27cbd2750a27691947",
+          "review": "structural-checks-only"
+        },
+        "es": {
+          "path": "docs/i18n/es/simulation/ros2/so_arm_102_description/README.md",
+          "source_sha256": "68392ab3f197f5446536c458b48e8f368684a5e3fbd34c27cbd2750a27691947",
+          "review": "structural-checks-only"
+        },
+        "fr": {
+          "path": "docs/i18n/fr/simulation/ros2/so_arm_102_description/README.md",
+          "source_sha256": "68392ab3f197f5446536c458b48e8f368684a5e3fbd34c27cbd2750a27691947",
+          "review": "structural-checks-only"
+        },
+        "de": {
+          "path": "docs/i18n/de/simulation/ros2/so_arm_102_description/README.md",
+          "source_sha256": "68392ab3f197f5446536c458b48e8f368684a5e3fbd34c27cbd2750a27691947",
+          "review": "structural-checks-only"
+        },
+        "pt-BR": {
+          "path": "docs/i18n/pt-BR/simulation/ros2/so_arm_102_description/README.md",
+          "source_sha256": "68392ab3f197f5446536c458b48e8f368684a5e3fbd34c27cbd2750a27691947",
+          "review": "structural-checks-only"
+        },
+        "zh-CN": {
+          "path": "docs/i18n/zh-CN/simulation/ros2/so_arm_102_description/README.md",
+          "source_sha256": "68392ab3f197f5446536c458b48e8f368684a5e3fbd34c27cbd2750a27691947",
+          "review": "structural-checks-only"
+        },
+        "ja": {
+          "path": "docs/i18n/ja/simulation/ros2/so_arm_102_description/README.md",
+          "source_sha256": "68392ab3f197f5446536c458b48e8f368684a5e3fbd34c27cbd2750a27691947",
+          "review": "structural-checks-only"
+        },
+        "hi": {
+          "path": "docs/i18n/hi/simulation/ros2/so_arm_102_description/README.md",
+          "source_sha256": "68392ab3f197f5446536c458b48e8f368684a5e3fbd34c27cbd2750a27691947",
+          "review": "structural-checks-only"
+        },
+        "ar": {
+          "path": "docs/i18n/ar/simulation/ros2/so_arm_102_description/README.md",
+          "source_sha256": "68392ab3f197f5446536c458b48e8f368684a5e3fbd34c27cbd2750a27691947",
+          "review": "structural-checks-only"
+        }
+      }
     }
   }
 }
