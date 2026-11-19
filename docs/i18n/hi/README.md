@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)](https://www.youtube.com/watch?v=0L-BLQ0befc)
+![SO-ARM 102](../../../assets/images/photos/so-arm-102-live.jpg)
 
 **🎥 [पूर्वावलोकन वीडियो देखें](https://www.youtube.com/watch?v=0L-BLQ0befc)**·**🛒 [किट खरीदें](https://robonine.com/shop/so-arm102-robotic-arm-kit/)**
 
