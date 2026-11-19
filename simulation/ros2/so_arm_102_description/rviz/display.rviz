@@ -1,6 +1,8 @@
 Panels:
   - Class: rviz_common/Displays
     Name: Displays
+  - Class: rviz_common/Views
+    Name: Views
 Visualization Manager:
   Class: ""
   Displays:
@@ -24,6 +26,11 @@ Visualization Manager:
   Enabled: true
   Global Options:
     Fixed Frame: base_link
+  Tools:
+    - Class: rviz_default_plugins/MoveCamera
+    - Class: rviz_default_plugins/Interact
+    - Class: rviz_default_plugins/Select
+    - Class: rviz_default_plugins/FocusCamera
   Views:
     Current:
       Class: rviz_default_plugins/Orbit
@@ -34,3 +41,14 @@ Visualization Manager:
         Z: 0.2
       Pitch: 0.45
       Yaw: 0.8
+Window Geometry:
+  Displays:
+    collapsed: false
+  Height: 1000
+  Hide Left Dock: false
+  Hide Right Dock: false
+  Views:
+    collapsed: false
+  Width: 1900
+  X: 80
+  Y: 40
