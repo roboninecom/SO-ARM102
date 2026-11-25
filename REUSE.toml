@@ -31,6 +31,17 @@ path = "simulation/**"
 SPDX-FileCopyrightText = "Copyright (c) 2026 Robonine"
 SPDX-License-Identifier = "CC-BY-4.0"
 
+# ROS 2 package software and configuration.
+[[annotations]]
+path = [
+    "simulation/ros2/so_arm_102_description/CMakeLists.txt",
+    "simulation/ros2/so_arm_102_description/package.xml",
+    "simulation/ros2/so_arm_102_description/launch/**",
+    "simulation/ros2/so_arm_102_description/rviz/**",
+]
+SPDX-FileCopyrightText = "Copyright (c) 2026 Robonine"
+SPDX-License-Identifier = "Apache-2.0"
+
 # Unmodified fit gauge from Robonine Parallel Gripper, commit a6df103658fc953a7c9a7d4e769c457b3449d687.
 # Source: https://raw.githubusercontent.com/roboninecom/SO-ARM100-101-Parallel-Gripper/a6df103658fc953a7c9a7d4e769c457b3449d687/models/parts/Gripper%20test%20plate%20star%20holes%206.0-6.3.STL
 [[annotations]]

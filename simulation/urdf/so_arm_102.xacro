@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <robot xmlns:xacro="http://www.ros.org/wiki/xacro" name="so_arm_102_pre_for_urdf_v5">
+  <xacro:arg name="mesh_prefix" default="meshes" />
   <xacro:include filename="materials.xacro" />
   <link name="base_link">
     <inertial>
@@ -10,7 +11,7 @@
     <visual>
       <origin xyz="-0 -0 -0" rpy="0 0 0" />
       <geometry>
-        <mesh filename="meshes/base_link.stl" scale="0.001 0.001 0.001" />
+        <mesh filename="$(arg mesh_prefix)/base_link.stl" scale="0.001 0.001 0.001" />
       </geometry>
       <material name="silver" />
     </visual>
@@ -648,7 +649,7 @@
     <visual>
       <origin xyz="0.006 1.10978314851e-16 -0.025" rpy="0 0 0" />
       <geometry>
-        <mesh filename="meshes/link1_1.stl" scale="0.001 0.001 0.001" />
+        <mesh filename="$(arg mesh_prefix)/link1_1.stl" scale="0.001 0.001 0.001" />
       </geometry>
       <material name="silver" />
     </visual>
@@ -1436,7 +1437,7 @@
     <visual>
       <origin xyz="-0.034 0.018 -0.098356707952" rpy="0 0 0" />
       <geometry>
-        <mesh filename="meshes/link2_1.stl" scale="0.001 0.001 0.001" />
+        <mesh filename="$(arg mesh_prefix)/link2_1.stl" scale="0.001 0.001 0.001" />
       </geometry>
       <material name="silver" />
     </visual>
@@ -2998,7 +2999,7 @@
     <visual>
       <origin xyz="-0.0340339589459 -0.017999879491 -0.211357541714" rpy="0 0 0" />
       <geometry>
-        <mesh filename="meshes/link3_1.stl" scale="0.001 0.001 0.001" />
+        <mesh filename="$(arg mesh_prefix)/link3_1.stl" scale="0.001 0.001 0.001" />
       </geometry>
       <material name="silver" />
     </visual>
@@ -3786,7 +3787,7 @@
     <visual>
       <origin xyz="-0.1690931926 -0.0179996182572 -0.244995122636" rpy="0 0 0" />
       <geometry>
-        <mesh filename="meshes/link4_1.stl" scale="0.001 0.001 0.001" />
+        <mesh filename="$(arg mesh_prefix)/link4_1.stl" scale="0.001 0.001 0.001" />
       </geometry>
       <material name="silver" />
     </visual>
@@ -4190,7 +4191,7 @@
     <visual>
       <origin xyz="-0.22828777435 6.48704621215e-07 -0.244954758855" rpy="0 0 0" />
       <geometry>
-        <mesh filename="meshes/link5_1.stl" scale="0.001 0.001 0.001" />
+        <mesh filename="$(arg mesh_prefix)/link5_1.stl" scale="0.001 0.001 0.001" />
       </geometry>
       <material name="silver" />
     </visual>
@@ -4798,7 +4799,7 @@
     <visual>
       <origin xyz="-0.292287773689 -0.0165014310175 -0.260952682391" rpy="0 0 0" />
       <geometry>
-        <mesh filename="meshes/clamp1_1.stl" scale="0.001 0.001 0.001" />
+        <mesh filename="$(arg mesh_prefix)/clamp1_1.stl" scale="0.001 0.001 0.001" />
       </geometry>
       <material name="silver" />
     </visual>
@@ -5004,7 +5005,7 @@
     <visual>
       <origin xyz="-0.292287775113 0.0154985689825 -0.260952680771" rpy="0 0 0" />
       <geometry>
-        <mesh filename="meshes/clamp2_1.stl" scale="0.001 0.001 0.001" />
+        <mesh filename="$(arg mesh_prefix)/clamp2_1.stl" scale="0.001 0.001 0.001" />
       </geometry>
       <material name="silver" />
     </visual>
